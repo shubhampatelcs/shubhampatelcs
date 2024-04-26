@@ -1,0 +1,3798 @@
+level,control,student_count,awards_per_value,pell_value
+4-year,Public,11502,20.9,100
+4-year,Private not-for-profit,322,29.9,100
+4-year,Public,5696,20.9,100
+4-year,Public,5356,11.6,100
+4-year,Public,29440,18.3,100
+2-year,Public,1906,15.9,99.8
+4-year,Public,4322,15.4,98.9
+4-year,Public,19799,21.5,98.8
+4-year,Private not-for-profit,1188,23.5,98.6
+2-year,Public,1837,13.6,98.6
+4-year,Private not-for-profit,600,12.3,98.5
+4-year,Private for-profit,599,15,98
+2-year,Public,2333,17.4,97.8
+2-year,Public,4362,11.8,97.8
+4-year,Private not-for-profit,2617,21.5,97.6
+2-year,Public,5797,14.5,97.4
+2-year,Public,4686,17.1,97.3
+2-year,Public,5281,18.8,97
+2-year,Public,1745,23.8,97
+4-year,Private for-profit,320,50,97
+4-year,Private not-for-profit,1110,22.2,96.7
+2-year,Public,1383,19.3,96.7
+4-year,Public,7588,18.1,96.6
+2-year,Public,1091,20.1,96.5
+2-year,Public,8542,15.8,96.4
+2-year,Public,11186,12.8,96.2
+4-year,Private not-for-profit,347,14.5,96.2
+2-year,Public,3028,13.5,96.2
+4-year,Public,1999,15.3,96
+2-year,Public,1570,20.9,95.6
+2-year,Public,418,26.1,95.4
+4-year,Private not-for-profit,1666,12,95
+4-year,Private not-for-profit,1481,21.7,94.9
+4-year,Public,2618,15.9,94.6
+2-year,Public,3854,16.3,94.5
+4-year,Public,5881,17.4,94.2
+2-year,Public,2834,23.7,94.1
+4-year,Private not-for-profit,1861,16.9,94.1
+2-year,Public,1349,19.5,94.1
+2-year,Private for-profit,102,9,94
+2-year,Public,517,25,93.2
+2-year,Public,3896,11.3,93.1
+4-year,Private not-for-profit,3013,19.9,93
+4-year,Private not-for-profit,582,5.2,93
+2-year,Public,5068,10.7,92.9
+2-year,Public,2295,20.7,92.8
+4-year,Public,11307,17.3,92.6
+4-year,Private not-for-profit,1292,18.5,92.5
+4-year,Private not-for-profit,161,18.7,92.2
+4-year,Private not-for-profit,863,11.8,91.9
+4-year,Private not-for-profit,932,13.1,91.6
+2-year,Public,1351,17.7,91.6
+4-year,Public,16316,21.4,91.4
+4-year,Private not-for-profit,2584,13.9,91.2
+2-year,Public,3490,16.6,91.2
+4-year,Public,16380,16.1,91
+4-year,Public,7989,16.6,91
+4-year,Public,2645,16.2,91
+4-year,Private not-for-profit,387,22.9,90.9
+4-year,Private for-profit,2191,34.2,90.5
+2-year,Public,471,5.1,90.5
+4-year,Private for-profit,2761,27,90.5
+4-year,Private for-profit,676,73.6,90.5
+2-year,Private for-profit,691,60.4,90.3
+2-year,Private for-profit,440,76.4,90.3
+4-year,Private not-for-profit,209,24.8,90.2
+4-year,Private for-profit,828,18.4,90.1
+4-year,Public,38730,23.7,90
+2-year,Public,8000,20.7,89.9
+4-year,Public,31670,21.3,89.8
+4-year,Private for-profit,216,12.7,89.8
+2-year,Public,6445,20.2,89.7
+4-year,Private for-profit,684,27,89.7
+2-year,Public,4453,22.5,89.7
+2-year,Public,6602,17.3,89.6
+4-year,Private not-for-profit,1879,20.6,89.6
+2-year,Public,20872,21,89.5
+4-year,Private for-profit,35205,17.7,89.5
+4-year,Private for-profit,2238,15.2,89.5
+2-year,Private for-profit,93,24.1,89.4
+2-year,Public,6440,23.8,89.4
+2-year,Public,23678,22.6,89.3
+4-year,Private for-profit,409,35.9,89.2
+4-year,Private for-profit,498,36.1,89.2
+2-year,Public,5227,21.1,89.2
+4-year,Public,1466,10.2,89.2
+4-year,Public,22160,20.1,89.1
+2-year,Public,3233,8.6,89.1
+2-year,Public,12676,22.7,89
+4-year,Private for-profit,3099,23.4,88.9
+2-year,Public,30082,22.1,88.8
+4-year,Private for-profit,1726,24.6,88.7
+2-year,Private for-profit,930,23.1,88.6
+4-year,Private not-for-profit,545,26.1,88.6
+2-year,Private for-profit,621,44.1,88.4
+2-year,Public,21472,7.4,88.3
+2-year,Public,10313,27.9,88.2
+2-year,Public,4718,28,88.2
+4-year,Private not-for-profit,635,16.3,88.1
+2-year,Private for-profit,2337,38.3,88.1
+4-year,Private for-profit,1497,30,87.9
+2-year,Public,8197,19,87.8
+4-year,Public,9970,18.9,87.7
+4-year,Private not-for-profit,1027,10.4,87.7
+4-year,Private not-for-profit,592,18.6,87.7
+4-year,Public,21009,17.4,87.7
+4-year,Public,2521,14.5,87.6
+2-year,Public,4380,26.6,87.6
+4-year,Public,10098,23.6,87.6
+4-year,Public,10482,21,87.5
+4-year,Public,3706,21,87.4
+2-year,Public,2248,21.2,87.3
+4-year,Public,9754,23.8,87.1
+4-year,Private not-for-profit,827,16.1,87.1
+2-year,Public,1597,20.4,87.1
+4-year,Private not-for-profit,200,15.3,87
+2-year,Public,1386,33.1,87
+2-year,Public,3246,22.9,86.9
+2-year,Public,1353,26.1,86.9
+4-year,Private not-for-profit,4428,19.8,86.9
+4-year,Public,3199,14.9,86.7
+4-year,Private not-for-profit,1431,20.8,86.7
+4-year,Private not-for-profit,2080,27.7,86.6
+2-year,Public,1793,11.2,86.6
+2-year,Public,1425,23.6,86.6
+2-year,Public,2167,26.5,86.5
+4-year,Private not-for-profit,1543,18.9,86.5
+2-year,Public,1501,33.4,86.5
+2-year,Public,1489,23.2,86.5
+4-year,Private not-for-profit,585,14.9,86.4
+2-year,Public,2149,31.6,86.3
+4-year,Private not-for-profit,556,17.4,86.2
+2-year,Public,2029,19.7,86
+2-year,Public,1601,27.6,85.9
+2-year,Public,10527,25,85.9
+2-year,Public,1460,32.5,85.8
+2-year,Public,957,23.8,85.8
+4-year,Private not-for-profit,574,19.3,85.6
+2-year,Public,1632,27,85.5
+4-year,Public,2960,18.8,85.5
+2-year,Public,1730,30.5,85.5
+4-year,Public,7170,17.1,85.3
+4-year,Private for-profit,10508,14,85.2
+4-year,Private for-profit,510,36.9,85.2
+2-year,Public,5799,7.7,85.2
+2-year,Public,10885,20.9,85
+2-year,Private not-for-profit,258,32.4,85
+2-year,Private for-profit,1770,16.1,85
+2-year,Public,29701,13.8,85
+2-year,Public,14262,14.2,85
+4-year,Private not-for-profit,1767,16.9,84.9
+4-year,Private not-for-profit,6543,24.2,84.9
+2-year,Public,17770,9.2,84.9
+2-year,Public,3211,13.2,84.8
+4-year,Private not-for-profit,259,25.1,84.8
+4-year,Private not-for-profit,4331,20.6,84.8
+4-year,Private for-profit,492,20.9,84.7
+4-year,Private for-profit,879,9.1,84.7
+2-year,Public,12163,17.4,84.7
+2-year,Public,13666,15.8,84.7
+4-year,Private not-for-profit,5797,18.7,84.7
+4-year,Private not-for-profit,1502,18.8,84.6
+4-year,Private not-for-profit,977,24.8,84.6
+4-year,Private not-for-profit,2888,25.2,84.5
+4-year,Public,18739,20.7,84.4
+4-year,Private not-for-profit,917,33.5,84.4
+4-year,Public,7350,21.7,84.3
+4-year,Public,7754,24.6,84.3
+4-year,Public,16191,22,84.3
+4-year,Public,20952,23.9,84.3
+4-year,Public,15290,25.2,84.1
+4-year,Public,12481,26,83.9
+4-year,Public,20295,21.1,83.9
+4-year,Public,33116,26.9,83.8
+4-year,Public,12146,25.8,83.6
+4-year,Public,30593,26.1,83.6
+4-year,Public,19589,22.9,83.6
+4-year,Public,33771,27.2,83.5
+4-year,Public,26094,25.3,83.5
+4-year,Public,25951,27.6,83.5
+4-year,Public,26533,26.6,83.4
+4-year,Public,23530,26.5,83.4
+4-year,Public,28674,26.8,83.3
+4-year,Public,18621,21.9,83.3
+4-year,Public,23805,26.3,83.2
+4-year,Public,19362,26.7,83.2
+4-year,Public,15695,24.9,83.2
+4-year,Private not-for-profit,762,22.2,83.2
+2-year,Private for-profit,489,31.7,83.1
+4-year,Private not-for-profit,995,19.9,83
+4-year,Public,1045,14.7,83
+2-year,Public,6620,10.2,83
+2-year,Public,18508,12.5,82.9
+2-year,Private not-for-profit,606,39.9,82.9
+2-year,Public,21404,11,82.8
+2-year,Public,4523,10.1,82.8
+2-year,Public,13142,9,82.7
+2-year,Public,19211,17.3,82.7
+4-year,Private not-for-profit,6005,21.5,82.7
+4-year,Private not-for-profit,85,60.2,82.6
+4-year,Private not-for-profit,1944,23.1,82.6
+4-year,Private not-for-profit,892,17.8,82.6
+2-year,Public,12920,17.2,82.5
+2-year,Public,26706,9.3,82.5
+4-year,Private not-for-profit,1316,23.6,82.4
+2-year,Public,10378,29.9,82.4
+4-year,Private for-profit,462,16.6,82.3
+4-year,Private not-for-profit,532,61.5,82.3
+2-year,Public,2626,13.9,82.3
+4-year,Private not-for-profit,314,17.5,82.2
+2-year,Public,7693,5.5,82.2
+2-year,Public,6865,14,82.1
+2-year,Public,13949,7.5,82.1
+2-year,Public,5697,12.2,82.1
+2-year,Public,9256,15.8,82.1
+2-year,Public,8859,13.4,81.9
+2-year,Public,15881,11.2,81.8
+2-year,Public,23261,8.3,81.8
+2-year,Public,9259,11.2,81.7
+4-year,Private for-profit,181,23.6,81.7
+2-year,Public,20286,8.4,81.6
+4-year,Private not-for-profit,1603,24,81.6
+2-year,Public,36606,11.8,81.5
+2-year,Public,23996,13.3,81.5
+2-year,Private for-profit,419,37.3,81.4
+2-year,Public,9211,8.6,81.4
+4-year,Private for-profit,3459,48.1,81.4
+4-year,Private for-profit,637,47,81.4
+2-year,Private for-profit,214,59.3,81.3
+2-year,Public,1782,15.7,81.3
+2-year,Public,14814,10.3,81.3
+2-year,Public,21344,8.8,81.3
+4-year,Private not-for-profit,2586,31.9,81.2
+2-year,Public,24301,12.4,81.1
+2-year,Public,5834,10.6,81.1
+2-year,Public,15744,4.8,81.1
+2-year,Public,12717,16.4,81
+2-year,Public,18618,15.2,80.9
+2-year,Public,9439,14.2,80.9
+4-year,Private not-for-profit,807,23.4,80.8
+2-year,Private for-profit,1150,29.9,80.8
+2-year,Private for-profit,1791,24.2,80.7
+2-year,Private for-profit,1671,31.9,80.7
+2-year,Private for-profit,1074,29.8,80.7
+2-year,Private for-profit,1503,29.3,80.7
+4-year,Private not-for-profit,888,16.4,80.6
+4-year,Public,7767,19.7,80.6
+4-year,Private not-for-profit,757,16.2,80.5
+2-year,Public,7701,11.2,80.5
+2-year,Public,13362,18.4,80.4
+4-year,Private for-profit,1209,32.9,80.4
+4-year,Private for-profit,534,43.9,80.4
+4-year,Private for-profit,823,37.1,80.4
+4-year,Private not-for-profit,112,23.8,80.3
+2-year,Public,13807,6.9,80.3
+4-year,Private not-for-profit,577,20.4,80.3
+4-year,Private for-profit,1869,22.3,80.2
+4-year,Private not-for-profit,5216,25.1,80.2
+4-year,Private not-for-profit,514,15.6,80.2
+2-year,Public,2426,10.3,80.1
+2-year,Public,11362,9.2,80.1
+2-year,Public,2494,18.3,80.1
+4-year,Private not-for-profit,116,18.5,80.1
+4-year,Private not-for-profit,2105,14.1,80
+2-year,Public,24020,8.6,80
+2-year,Public,10098,10.2,80
+2-year,Public,20080,10.4,80
+2-year,Public,7864,7.1,79.9
+2-year,Public,13879,12,79.9
+2-year,Public,18762,11.6,79.9
+4-year,Private not-for-profit,1112,18.3,79.9
+2-year,Public,19635,6.4,79.9
+2-year,Public,8990,13.9,79.8
+2-year,Public,8525,12.7,79.8
+4-year,Private for-profit,1304,18.6,79.8
+4-year,Private not-for-profit,6205,24.5,79.7
+2-year,Private for-profit,594,33.5,79.7
+2-year,Private for-profit,547,25.4,79.7
+2-year,Private for-profit,1354,35.1,79.7
+2-year,Private for-profit,896,28.5,79.7
+2-year,Public,6077,6.6,79.7
+4-year,Private not-for-profit,1033,11.9,79.5
+2-year,Public,3729,13.2,79.5
+4-year,Private not-for-profit,745,20.6,79.4
+2-year,Public,10205,11.3,79.4
+2-year,Public,5887,11.9,79.4
+4-year,Private not-for-profit,985,28.7,79.3
+2-year,Public,14537,12.9,79.3
+2-year,Public,9130,11.2,79.3
+2-year,Public,17084,12.5,79.3
+2-year,Public,9519,9.1,79.3
+2-year,Public,14206,20.3,79.2
+2-year,Public,28481,10.8,79.2
+4-year,Private not-for-profit,2625,28.2,79.2
+2-year,Public,14170,18.5,79.2
+4-year,Private for-profit,1204,29.2,79.1
+2-year,Public,6308,18.2,79.1
+2-year,Private for-profit,696,55.5,79.1
+2-year,Private for-profit,747,48.7,79
+4-year,Private for-profit,509,10.8,79
+4-year,Private not-for-profit,10074,14.3,79
+4-year,Private for-profit,375,14.3,79
+4-year,Private not-for-profit,1213,24.5,78.9
+4-year,Private not-for-profit,2128,21.7,78.9
+2-year,Public,10310,8.3,78.9
+2-year,Public,21886,13.1,78.9
+4-year,Private not-for-profit,1032,21,78.8
+2-year,Public,6939,17,78.8
+4-year,Private not-for-profit,925,20.5,78.8
+2-year,Private for-profit,895,17.9,78.8
+4-year,Private not-for-profit,1645,21.8,78.7
+4-year,Private not-for-profit,3877,17.3,78.7
+2-year,Public,3253,12.6,78.7
+2-year,Public,24665,19.4,78.7
+2-year,Public,25268,13.7,78.6
+4-year,Private not-for-profit,3538,24.6,78.6
+4-year,Private not-for-profit,1081,25.1,78.6
+4-year,Private for-profit,370,51.9,78.5
+4-year,Private not-for-profit,2556,22.5,78.5
+4-year,Private not-for-profit,1610,24.1,78.4
+2-year,Public,3810,13.3,78.4
+4-year,Private for-profit,571,14.5,78.3
+2-year,Public,28598,21.2,78.3
+4-year,Private not-for-profit,3607,22.1,78.2
+2-year,Public,4938,13.5,78.2
+2-year,Public,16548,9,78.2
+2-year,Public,18165,17.8,78.2
+2-year,Public,23509,10.4,78.2
+2-year,Public,20871,17.7,78.1
+2-year,Public,16310,8.8,78.1
+2-year,Private for-profit,230,47.9,78
+2-year,Public,24251,8.7,77.9
+2-year,Public,11891,12,77.9
+4-year,Public,27099,25.6,77.9
+4-year,Private not-for-profit,5665,22.9,77.9
+4-year,Private not-for-profit,478,17.1,77.9
+4-year,Private not-for-profit,174,25.2,77.8
+4-year,Public,26156,27,77.8
+4-year,Private not-for-profit,6392,21.6,77.8
+2-year,Public,17629,23.9,77.8
+2-year,Private for-profit,1616,40.1,77.7
+2-year,Private for-profit,642,40,77.6
+4-year,Private not-for-profit,1047,22.1,77.6
+2-year,Public,9446,9.9,77.6
+4-year,Public,25862,25,77.6
+2-year,Public,9377,11,77.5
+4-year,Private for-profit,543,30.2,77.5
+4-year,Private for-profit,661,17,77.5
+4-year,Private for-profit,188,40.1,77.4
+2-year,Public,19331,19,77.4
+4-year,Private not-for-profit,5435,21,77.4
+2-year,Public,29999,12.8,77.4
+2-year,Public,22094,13.6,77.3
+4-year,Private not-for-profit,990,23.4,77.3
+2-year,Private for-profit,1199,48.1,77.3
+2-year,Public,10720,14,77.3
+2-year,Public,8479,12,77.1
+2-year,Public,18374,17,77.1
+4-year,Private not-for-profit,1024,33.8,77.1
+2-year,Public,2533,13.6,77
+2-year,Public,10067,10.5,77
+2-year,Public,12329,11,77
+4-year,Private not-for-profit,3055,21,77
+2-year,Public,9583,16.7,77
+4-year,Public,8391,23.7,77
+2-year,Private for-profit,374,11.5,76.9
+4-year,Private not-for-profit,2135,23.8,76.9
+2-year,Private for-profit,898,24.1,76.9
+2-year,Public,19591,8.2,76.8
+4-year,Private not-for-profit,237,20.1,76.8
+4-year,Private not-for-profit,18445,24.8,76.8
+2-year,Public,5444,13.9,76.6
+4-year,Private not-for-profit,366,18.3,76.6
+4-year,Private not-for-profit,265,30.9,76.6
+2-year,Private for-profit,2732,66.8,76.5
+2-year,Private for-profit,753,27.2,76.5
+2-year,Private for-profit,925,31.3,76.5
+2-year,Public,12908,17.5,76.5
+2-year,Public,11504,13.4,76.5
+2-year,Public,6471,4.2,76.5
+4-year,Private for-profit,8205,8.3,76.4
+2-year,Public,3055,16.9,76.4
+2-year,Public,10767,8.7,76.3
+2-year,Public,9636,9.3,76.3
+2-year,Private for-profit,1267,45.5,76.3
+4-year,Private not-for-profit,1308,21.6,76.3
+4-year,Private not-for-profit,1656,20.1,76.3
+4-year,Private not-for-profit,1357,18,76.2
+4-year,Private not-for-profit,131,10.1,76.2
+2-year,Public,6874,11.2,76.2
+4-year,Public,2284,20.4,76.2
+2-year,Public,4955,16,76.2
+2-year,Public,11621,14.4,76.1
+2-year,Private for-profit,576,26.6,76.1
+2-year,Private for-profit,389,48.5,76.1
+4-year,Public,13010,20.6,76.1
+4-year,Public,9220,19.3,76.1
+2-year,Private for-profit,434,32.8,76.1
+4-year,Public,26096,22.6,76
+4-year,Private not-for-profit,4973,19.8,76
+4-year,Private not-for-profit,2041,25.1,76
+2-year,Private for-profit,847,21.5,76
+4-year,Private for-profit,1794,21.4,76
+4-year,Public,5893,16,76
+2-year,Public,1138,17.7,75.9
+4-year,Public,4291,17.4,75.9
+2-year,Private for-profit,182,73.6,75.9
+4-year,Public,23548,21.4,75.9
+4-year,Private for-profit,1216,19.2,75.9
+2-year,Public,7874,12.7,75.9
+4-year,Private not-for-profit,497,13.8,75.8
+2-year,Private for-profit,34,6.2,75.8
+2-year,Public,10432,7.3,75.7
+2-year,Private for-profit,1262,49.1,75.7
+4-year,Private for-profit,438,23.1,75.6
+4-year,Private not-for-profit,5517,23.5,75.5
+4-year,Public,3984,18.2,75.5
+2-year,Public,19619,12.1,75.5
+2-year,Public,902,21.1,75.5
+4-year,Public,9576,14.1,75.5
+4-year,Public,22289,17,75.5
+2-year,Public,1851,24.4,75.5
+4-year,Private not-for-profit,383,30.5,75.5
+4-year,Private for-profit,281,18,75.4
+4-year,Private for-profit,258,19.5,75.4
+4-year,Private not-for-profit,889,25.7,75.4
+2-year,Public,1962,20.3,75.4
+4-year,Public,9947,20.1,75.3
+2-year,Public,1449,22,75.2
+2-year,Private for-profit,371,54.5,75.2
+2-year,Public,14634,11.6,75.2
+2-year,Private for-profit,339,19.8,75.2
+2-year,Public,6718,16,75.1
+2-year,Public,8599,13.4,75.1
+4-year,Private not-for-profit,5172,30.8,75
+4-year,Private for-profit,739,21.7,75
+4-year,Public,5207,16.7,75
+2-year,Private for-profit,815,73.9,75
+2-year,Private for-profit,536,41,75
+2-year,Public,1791,28.1,74.9
+4-year,Public,2193,19.9,74.9
+4-year,Private not-for-profit,1278,29.7,74.9
+2-year,Public,1715,15.8,74.8
+4-year,Private for-profit,837,17.9,74.8
+4-year,Private not-for-profit,2835,22.7,74.8
+4-year,Public,9771,20.9,74.7
+4-year,Private not-for-profit,1915,21.5,74.7
+4-year,Public,18032,27.9,74.6
+4-year,Private not-for-profit,3388,18.8,74.5
+4-year,Public,5179,23.1,74.5
+4-year,Private not-for-profit,3873,22.7,74.5
+2-year,Public,4168,16.3,74.4
+4-year,Private not-for-profit,5187,23,74.4
+2-year,Public,5813,13.6,74.4
+2-year,Public,7571,17.4,74.4
+2-year,Public,7294,15.9,74.3
+2-year,Public,2900,16.2,74.3
+4-year,Private not-for-profit,866,20.6,74.3
+2-year,Public,4749,16,74.3
+4-year,Private not-for-profit,4864,19.6,74.3
+2-year,Public,6556,13.1,74.3
+2-year,Public,1549,16.7,74.3
+4-year,Private for-profit,155,29.7,74.2
+4-year,Private for-profit,7371,10.5,74.2
+2-year,Public,1929,15.2,74.2
+4-year,Private not-for-profit,6542,22.4,74.1
+4-year,Private not-for-profit,4489,21.5,74.1
+4-year,Private not-for-profit,1049,23.9,74.1
+2-year,Public,8186,13.3,74.1
+4-year,Private not-for-profit,827,23.8,74.1
+4-year,Public,8257,22.2,74.1
+4-year,Private not-for-profit,2301,23.7,74.1
+2-year,Public,4547,13.9,74
+4-year,Private not-for-profit,2906,24,74
+4-year,Public,5492,18.4,74
+4-year,Private not-for-profit,5430,18.8,73.9
+2-year,Public,4429,19.9,73.9
+2-year,Public,3031,18.3,73.9
+2-year,Public,7030,12.4,73.8
+4-year,Public,3892,14.1,73.8
+4-year,Public,18487,22,73.8
+4-year,Private not-for-profit,554,25.6,73.8
+4-year,Private not-for-profit,1600,18,73.8
+4-year,Private not-for-profit,8611,25.9,73.8
+4-year,Private not-for-profit,7340,23.5,73.7
+4-year,Private not-for-profit,3713,20.2,73.7
+4-year,Private not-for-profit,323,20.9,73.7
+4-year,Public,4712,16.5,73.7
+4-year,Private not-for-profit,1077,20.7,73.7
+4-year,Private not-for-profit,10357,25.6,73.6
+4-year,Private not-for-profit,7636,25,73.6
+4-year,Private not-for-profit,6974,17.7,73.6
+2-year,Private for-profit,1373,1.9,73.6
+4-year,Private for-profit,883,17.2,73.5
+4-year,Private not-for-profit,1853,16,73.5
+4-year,Private for-profit,1924,27.6,73.5
+4-year,Private not-for-profit,507,25.2,73.5
+4-year,Private not-for-profit,4341,26.9,73.5
+4-year,Private not-for-profit,3724,14.7,73.5
+4-year,Private not-for-profit,1785,24.2,73.5
+4-year,Public,16711,25.1,73.5
+4-year,Public,43883,20.7,73.4
+2-year,Private for-profit,59,40.2,73.4
+4-year,Private not-for-profit,294,33,73.3
+4-year,Public,8162,21.6,73.3
+4-year,Private not-for-profit,302,15.3,73.3
+4-year,Public,51333,26.4,73.3
+4-year,Public,2160,28.4,73.3
+4-year,Private not-for-profit,495,18.2,73.2
+4-year,Public,14865,27.7,73.1
+4-year,Private for-profit,973,21.2,73.1
+4-year,Private not-for-profit,2173,21.3,73.1
+4-year,Public,15423,22.6,73.1
+4-year,Private not-for-profit,862,11.8,73
+4-year,Private not-for-profit,4679,19.7,73
+4-year,Public,8930,14.1,73
+4-year,Public,25790,25.4,73
+4-year,Public,28134,26.6,73
+4-year,Private not-for-profit,2839,22.8,72.9
+4-year,Private not-for-profit,558,33.7,72.9
+2-year,Private for-profit,630,24.2,72.9
+2-year,Private for-profit,508,13.8,72.9
+2-year,Private for-profit,454,14.1,72.9
+4-year,Private not-for-profit,2160,38.2,72.9
+4-year,Private not-for-profit,3257,15.9,72.9
+4-year,Public,39142,22.2,72.9
+2-year,Public,1139,21.8,72.8
+4-year,Private not-for-profit,1517,12.5,72.7
+4-year,Private for-profit,5818,27.8,72.7
+4-year,Private not-for-profit,2416,20.6,72.7
+4-year,Public,32528,27.8,72.7
+4-year,Private for-profit,4330,25.9,72.7
+4-year,Private for-profit,99,36.1,72.7
+4-year,Public,33168,27.6,72.6
+4-year,Private for-profit,1746,30.7,72.6
+4-year,Private for-profit,18880,8.7,72.6
+4-year,Public,6271,21.1,72.6
+2-year,Public,26590,18.6,72.6
+4-year,Private not-for-profit,200,31.7,72.6
+4-year,Public,17248,25.8,72.5
+4-year,Private for-profit,474,27.6,72.5
+4-year,Private for-profit,3167,18.6,72.5
+4-year,Private for-profit,463,38.7,72.5
+4-year,Private not-for-profit,3425,30,72.4
+4-year,Private not-for-profit,449,26.2,72.4
+4-year,Private not-for-profit,16039,23.8,72.4
+2-year,Private for-profit,614,45.2,72.4
+4-year,Public,3057,23.8,72.4
+4-year,Public,4288,22.2,72.4
+4-year,Private not-for-profit,511,18.8,72.4
+4-year,Public,10533,20.2,72.4
+4-year,Public,66298,21,72.4
+4-year,Private not-for-profit,11380,22.8,72.3
+4-year,Private not-for-profit,189,19.5,72.3
+2-year,Private for-profit,768,51.5,72.2
+4-year,Private for-profit,738,51.3,72.2
+2-year,Public,1179,24.5,72.2
+4-year,Public,14263,27.2,72.2
+4-year,Private not-for-profit,612,36,72.1
+4-year,Private not-for-profit,5156,27.3,72.1
+4-year,Public,6708,27.7,72
+4-year,Private for-profit,714,37.2,72
+4-year,Private not-for-profit,2887,19.7,71.9
+4-year,Public,29763,23.1,71.9
+2-year,Public,10206,23.3,71.9
+4-year,Public,11235,23,71.9
+4-year,Public,11085,20.2,71.9
+4-year,Private not-for-profit,1253,22.2,71.9
+4-year,Private not-for-profit,2608,21.4,71.9
+4-year,Private not-for-profit,12640,29.9,71.9
+4-year,Public,31820,22.4,71.8
+4-year,Public,15113,24.3,71.8
+4-year,Private for-profit,131,9,71.8
+4-year,Public,18427,19.3,71.7
+4-year,Public,6127,18.1,71.7
+4-year,Public,2699,25.5,71.7
+4-year,Public,31100,26.3,71.7
+4-year,Private not-for-profit,1035,15.9,71.7
+4-year,Private not-for-profit,2729,20.2,71.6
+4-year,Private not-for-profit,3083,20.6,71.6
+2-year,Public,13509,25.1,71.6
+4-year,Private for-profit,738,40.7,71.5
+4-year,Private for-profit,468,44.4,71.5
+4-year,Private not-for-profit,6499,20.5,71.5
+4-year,Private not-for-profit,301,20,71.5
+4-year,Private not-for-profit,224,17.8,71.5
+4-year,Public,42180,24.3,71.4
+4-year,Private not-for-profit,1043,27.2,71.4
+4-year,Private not-for-profit,667,18.2,71.3
+4-year,Private for-profit,5640,17.9,71.3
+4-year,Public,10158,24.9,71.3
+4-year,Public,3394,19.8,71.3
+4-year,Private not-for-profit,915,19.7,71.3
+2-year,Private for-profit,383,41.2,71.3
+2-year,Public,3894,27.4,71.3
+2-year,Public,6195,15.5,71.3
+4-year,Public,3660,14.7,71.2
+2-year,Private not-for-profit,316,13,71.2
+4-year,Public,6377,17.7,71.2
+4-year,Private for-profit,3078,15.5,71.2
+2-year,Public,4859,19.7,71.2
+4-year,Private not-for-profit,1439,26.9,71.1
+4-year,Public,3016,12.3,71.1
+4-year,Private not-for-profit,2629,17.6,71.1
+2-year,Public,4379,22.1,71.1
+2-year,Public,2695,12,71.1
+4-year,Private for-profit,751,18.8,71.1
+4-year,Private not-for-profit,2141,19,71.1
+4-year,Private not-for-profit,554,24.1,71
+4-year,Private not-for-profit,1700,26.5,71
+4-year,Private not-for-profit,693,19.1,71
+2-year,Private for-profit,233,12.6,70.9
+4-year,Public,2987,14.5,70.9
+2-year,Public,6915,13.5,70.8
+4-year,Private not-for-profit,103,15.7,70.8
+4-year,Public,6893,20.4,70.8
+2-year,Public,3739,16.8,70.8
+4-year,Public,7013,16.9,70.8
+2-year,Public,6051,23.1,70.8
+4-year,Private not-for-profit,1104,22.1,70.7
+4-year,Public,5015,16.1,70.7
+4-year,Private for-profit,777,18.6,70.7
+4-year,Public,2857,6.2,70.7
+4-year,Private not-for-profit,806,18.6,70.6
+4-year,Private not-for-profit,7836,25.2,70.6
+2-year,Public,5492,13,70.6
+4-year,Public,2858,11.3,70.6
+4-year,Public,14558,20.7,70.6
+4-year,Public,2667,20.5,70.6
+4-year,Public,5729,20.8,70.5
+2-year,Public,1651,18.5,70.5
+4-year,Public,17904,16.5,70.5
+4-year,Public,24868,20.1,70.5
+4-year,Public,26278,27.3,70.4
+4-year,Public,4187,15,70.4
+2-year,Public,5177,17.3,70.4
+2-year,Private not-for-profit,174,64.1,70.4
+2-year,Private for-profit,368,32.7,70.3
+2-year,Public,7180,20,70.3
+4-year,Public,22621,17.4,70.3
+4-year,Private not-for-profit,856,21,70.3
+2-year,Public,3579,26.5,70.2
+4-year,Private not-for-profit,765,9.4,70.2
+2-year,Public,10470,11.7,70.2
+4-year,Private for-profit,393,24.3,70.2
+4-year,Private not-for-profit,4419,24.3,70.2
+4-year,Private not-for-profit,2170,16.7,70.1
+2-year,Public,2058,24.8,70.1
+2-year,Public,2441,21.9,70.1
+4-year,Private not-for-profit,1091,18.9,70.1
+4-year,Private not-for-profit,924,11.3,70.1
+4-year,Private not-for-profit,1281,22.4,70
+4-year,Private not-for-profit,1217,20.4,70
+2-year,Public,4784,13.8,70
+4-year,Private not-for-profit,8825,21.8,70
+4-year,Public,4602,9.8,70
+4-year,Private not-for-profit,1544,15.2,70
+2-year,Public,1828,26.3,69.9
+4-year,Private not-for-profit,2129,19.2,69.9
+4-year,Public,5732,16.5,69.9
+2-year,Public,1546,25.9,69.9
+4-year,Private not-for-profit,886,23.7,69.9
+4-year,Private not-for-profit,870,20,69.8
+4-year,Private not-for-profit,1606,8.8,69.8
+2-year,Public,3966,20,69.8
+4-year,Public,9718,17.4,69.8
+4-year,Private not-for-profit,651,18.1,69.8
+4-year,Public,9959,16.8,69.8
+4-year,Private not-for-profit,1117,16.3,69.8
+2-year,Private for-profit,1678,28.2,69.8
+4-year,Private not-for-profit,2036,27.2,69.7
+4-year,Public,3457,21.5,69.7
+4-year,Public,14499,22.8,69.6
+4-year,Private not-for-profit,5582,21.8,69.6
+2-year,Public,4368,21.7,69.6
+2-year,Public,8376,19.4,69.6
+2-year,Public,1530,26,69.5
+2-year,Public,7976,15.8,69.5
+4-year,Public,4076,21.3,69.5
+4-year,Public,2361,28.8,69.4
+2-year,Public,2799,12.7,69.3
+2-year,Private for-profit,552,55.5,69.3
+4-year,Private not-for-profit,186,19.1,69.2
+4-year,Public,19026,18.7,69.2
+2-year,Public,725,38.3,69.2
+4-year,Public,11418,18.3,69.1
+4-year,Public,9540,19.3,69.1
+4-year,Private not-for-profit,1095,19.6,69.1
+4-year,Public,4304,21.2,69.1
+4-year,Private for-profit,251,41,69
+2-year,Public,6029,18.5,69
+4-year,Private not-for-profit,1488,18.7,69
+4-year,Private not-for-profit,27692,17.9,69
+2-year,Public,8330,18.8,69
+4-year,Private for-profit,406,14.8,68.9
+4-year,Private not-for-profit,2714,21.1,68.9
+4-year,Private not-for-profit,2524,21.3,68.9
+4-year,Private not-for-profit,3246,23.4,68.9
+2-year,Public,11332,16.5,68.9
+2-year,Public,6574,12.4,68.9
+4-year,Private not-for-profit,543,18.8,68.9
+4-year,Private not-for-profit,4825,23.6,68.9
+2-year,Public,2328,21.8,68.8
+4-year,Public,4340,19.4,68.8
+4-year,Private not-for-profit,5703,24.5,68.8
+2-year,Public,5860,11.3,68.7
+2-year,Public,6842,8,68.7
+2-year,Public,5298,8.1,68.7
+2-year,Public,11800,6.6,68.6
+2-year,Public,9384,6.8,68.6
+2-year,Public,9036,7.9,68.6
+2-year,Public,12640,11.2,68.6
+4-year,Private not-for-profit,9671,21.7,68.6
+4-year,Private not-for-profit,1604,19.1,68.5
+2-year,Private for-profit,958,27.6,68.5
+2-year,Private for-profit,590,36.3,68.5
+2-year,Public,4035,17.4,68.4
+4-year,Private not-for-profit,16420,23.3,68.4
+2-year,Public,28627,11.9,68.4
+4-year,Private not-for-profit,684,16.7,68.3
+4-year,Public,8347,25.3,68.3
+2-year,Public,11285,17.1,68.3
+4-year,Private not-for-profit,2900,24.4,68.3
+4-year,Private not-for-profit,692,22.2,68.3
+2-year,Private for-profit,387,47.4,68.2
+4-year,Private not-for-profit,1129,27,68.2
+4-year,Private for-profit,381,30.9,68.2
+4-year,Private not-for-profit,521,5.9,68.2
+2-year,Public,2031,24.2,68.2
+4-year,Public,16671,23.1,68.2
+4-year,Private not-for-profit,3828,24.7,68.1
+4-year,Public,32695,22.3,68
+4-year,Private not-for-profit,2009,22.4,68
+2-year,Public,10770,19.5,68
+4-year,Private not-for-profit,1010,20.1,67.9
+2-year,Public,1470,37.6,67.9
+4-year,Private not-for-profit,2926,20.5,67.9
+4-year,Private for-profit,296,9.5,67.9
+4-year,Public,17749,25.3,67.9
+2-year,Public,3705,21.6,67.9
+4-year,Private for-profit,346,22.6,67.8
+2-year,Public,7150,19.2,67.8
+2-year,Public,1923,23.3,67.8
+2-year,Public,16869,15.2,67.8
+4-year,Private not-for-profit,1066,24.4,67.7
+2-year,Public,3825,16,67.7
+2-year,Public,5258,22.3,67.7
+4-year,Private for-profit,1659,25.4,67.7
+2-year,Public,4717,18,67.6
+4-year,Private not-for-profit,1424,22.8,67.6
+2-year,Public,17685,15,67.6
+4-year,Private not-for-profit,1590,20.7,67.6
+2-year,Public,6351,17.5,67.6
+2-year,Public,8520,21.4,67.5
+4-year,Private not-for-profit,4613,24.7,67.5
+4-year,Private not-for-profit,623,24.3,67.5
+4-year,Private not-for-profit,1240,27.2,67.4
+2-year,Public,7020,17,67.4
+2-year,Private for-profit,617,60.7,67.4
+4-year,Private not-for-profit,10168,22.2,67.3
+4-year,Private not-for-profit,234,46,67.3
+2-year,Private not-for-profit,215,19.4,67.3
+4-year,Private not-for-profit,571,19.7,67.3
+2-year,Public,7023,16.2,67.3
+4-year,Private not-for-profit,2358,25.3,67.2
+4-year,Private not-for-profit,508,26.5,67.2
+4-year,Private for-profit,543,35,67.1
+4-year,Private not-for-profit,2153,21.5,67.1
+4-year,Private not-for-profit,1255,21.6,67.1
+4-year,Private not-for-profit,3103,18.3,67
+2-year,Public,16106,15.8,66.9
+2-year,Private not-for-profit,103,39.8,66.9
+2-year,Public,4886,14.9,66.7
+4-year,Private not-for-profit,1427,48.4,66.7
+4-year,Private not-for-profit,2797,22.2,66.7
+4-year,Private not-for-profit,2204,23.6,66.7
+4-year,Public,15814,25.6,66.6
+2-year,Private for-profit,430,19.6,66.6
+4-year,Private not-for-profit,9283,26.5,66.6
+4-year,Public,8950,23.8,66.5
+2-year,Public,10866,8.8,66.5
+4-year,Private not-for-profit,3335,22.6,66.5
+2-year,Public,8437,12.1,66.5
+2-year,Public,5064,9.8,66.5
+4-year,Private not-for-profit,1196,19.9,66.4
+2-year,Private for-profit,200,45,66.4
+4-year,Private for-profit,2322,18.9,66.3
+2-year,Public,2714,30.9,66.3
+2-year,Public,3340,28.6,66.3
+4-year,Private not-for-profit,2781,42.5,66.2
+2-year,Public,8150,18,66.2
+2-year,Private for-profit,484,27.6,66.2
+4-year,Private not-for-profit,972,25.3,66.2
+4-year,Private not-for-profit,3658,30.1,66.2
+4-year,Private not-for-profit,2069,21.5,66.2
+4-year,Private not-for-profit,1780,26.4,66.2
+4-year,Private not-for-profit,2920,25.7,66.1
+4-year,Public,3039,28.1,66.1
+2-year,Public,2220,17.5,66.1
+2-year,Public,1834,18.7,66.1
+4-year,Private not-for-profit,97,17.6,66
+4-year,Private not-for-profit,1607,31.7,66
+2-year,Public,1930,19.7,66
+2-year,Public,1784,21.6,65.9
+4-year,Public,13306,32.2,65.9
+4-year,Public,11229,21.1,65.8
+2-year,Private for-profit,257,11.2,65.8
+2-year,Public,5212,9,65.8
+4-year,Private not-for-profit,1333,24,65.8
+4-year,Private not-for-profit,906,19.6,65.7
+2-year,Public,11225,12.1,65.7
+4-year,Private not-for-profit,133,17.9,65.7
+2-year,Public,10721,14.5,65.6
+4-year,Public,9873,24.4,65.6
+4-year,Private not-for-profit,2444,24,65.6
+2-year,Public,14830,15.5,65.6
+2-year,Private not-for-profit,424,28,65.6
+4-year,Private not-for-profit,2016,20.1,65.6
+4-year,Public,16300,20,65.6
+4-year,Private not-for-profit,1655,31.4,65.5
+4-year,Private not-for-profit,4051,19.7,65.5
+4-year,Private not-for-profit,988,34.9,65.5
+2-year,Private for-profit,265,7.1,65.5
+4-year,Private not-for-profit,2304,22.6,65.5
+4-year,Private not-for-profit,1064,22.7,65.5
+4-year,Private not-for-profit,2477,20.3,65.5
+4-year,Private not-for-profit,1014,23.7,65.5
+4-year,Private not-for-profit,828,25.4,65.4
+4-year,Private not-for-profit,1615,27.5,65.4
+4-year,Private not-for-profit,1163,19.5,65.4
+4-year,Private not-for-profit,524,16.1,65.4
+4-year,Private not-for-profit,1053,22,65.4
+2-year,Public,98778,17.1,65.4
+4-year,Public,12928,16.7,65.3
+4-year,Public,22409,22.8,65.3
+4-year,Private for-profit,3726,23.7,65.3
+4-year,Private not-for-profit,4162,19.6,65.3
+4-year,Private not-for-profit,5717,21.3,65.3
+4-year,Public,8913,18.1,65.2
+4-year,Public,10268,16.4,65.2
+4-year,Public,3981,19.8,65.2
+4-year,Public,7512,15.7,65.2
+4-year,Public,36862,23.1,65.2
+4-year,Public,5904,15.7,65.2
+4-year,Public,6148,18.9,65.2
+4-year,Public,4326,18,65.1
+4-year,Private for-profit,406,57.2,65.1
+2-year,Private for-profit,399,46.6,65.1
+4-year,Private for-profit,525,38.5,65.1
+4-year,Private for-profit,283,39,65.1
+4-year,Private for-profit,4296,19.1,65.1
+4-year,Private for-profit,619,38.7,65.1
+4-year,Private for-profit,290,34.6,65
+2-year,Private for-profit,1240,52.2,64.9
+4-year,Private not-for-profit,1199,17.3,64.9
+4-year,Private not-for-profit,2203,22.1,64.9
+4-year,Private not-for-profit,10766,34.9,64.9
+4-year,Private not-for-profit,452,10.5,64.8
+4-year,Private for-profit,423,42.4,64.8
+4-year,Private not-for-profit,8477,23.5,64.8
+4-year,Private not-for-profit,2311,22.9,64.8
+4-year,Public,8390,18.2,64.7
+4-year,Public,6054,16,64.7
+4-year,Private not-for-profit,2205,20.5,64.7
+4-year,Private not-for-profit,1980,23.6,64.7
+4-year,Private not-for-profit,1141,19.4,64.7
+4-year,Private not-for-profit,649,23.8,64.7
+4-year,Private not-for-profit,1479,24.8,64.7
+2-year,Private for-profit,366,32.7,64.6
+4-year,Private not-for-profit,2146,19.1,64.6
+4-year,Private not-for-profit,1874,16.5,64.6
+4-year,Private not-for-profit,3251,21.4,64.6
+4-year,Public,18383,16,64.6
+4-year,Private not-for-profit,902,19.8,64.6
+4-year,Private not-for-profit,398,45,64.6
+4-year,Private not-for-profit,1019,32.8,64.5
+4-year,Private not-for-profit,1042,21.2,64.5
+4-year,Private not-for-profit,2293,29.7,64.5
+4-year,Private not-for-profit,1386,21.2,64.5
+4-year,Private not-for-profit,1011,24.7,64.5
+4-year,Private not-for-profit,1419,19,64.4
+4-year,Private not-for-profit,1125,20.2,64.4
+2-year,Public,20167,16.5,64.4
+4-year,Private not-for-profit,90,7.6,64.3
+4-year,Private not-for-profit,1376,21,64.3
+4-year,Private not-for-profit,3383,25,64.3
+4-year,Private not-for-profit,1694,20.3,64.3
+2-year,Public,1034,24.7,64.2
+4-year,Private not-for-profit,187,45.2,64.2
+2-year,Public,8694,17.9,64.1
+4-year,Private not-for-profit,229,25.6,64.1
+4-year,Private not-for-profit,1559,26.2,64.1
+4-year,Private not-for-profit,2096,23.9,64
+4-year,Private not-for-profit,1721,23.4,64
+4-year,Private for-profit,205,23.3,64
+4-year,Private for-profit,483,25.5,63.9
+4-year,Private for-profit,177,41.6,63.9
+2-year,Public,5809,16.1,63.8
+2-year,Public,4604,32.1,63.8
+2-year,Public,5697,21.2,63.8
+2-year,Public,2574,25.7,63.8
+4-year,Public,27659,20.1,63.7
+4-year,Private not-for-profit,599,26.7,63.7
+2-year,Public,6861,16.8,63.7
+4-year,Public,21974,21.7,63.7
+2-year,Public,15076,21.8,63.6
+4-year,Private not-for-profit,1554,20.7,63.6
+4-year,Private not-for-profit,2466,20.6,63.6
+4-year,Private not-for-profit,319,15,63.5
+2-year,Public,2101,25.3,63.5
+4-year,Private not-for-profit,831,39.7,63.5
+4-year,Private not-for-profit,1305,20.3,63.5
+4-year,Private not-for-profit,1476,33.5,63.5
+4-year,Private for-profit,50895,18.5,63.5
+2-year,Public,3207,29.5,63.5
+4-year,Public,10380,22.7,63.4
+4-year,Private not-for-profit,1233,20,63.4
+2-year,Public,5201,23.9,63.3
+2-year,Public,1628,33.8,63.3
+4-year,Private not-for-profit,2743,26.1,63.3
+4-year,Private not-for-profit,184,51.3,63.2
+4-year,Private not-for-profit,1712,23.8,63.2
+2-year,Public,3225,26.8,63.1
+2-year,Public,1573,27.8,63.1
+4-year,Private not-for-profit,4632,29.2,63
+4-year,Private for-profit,1150,22.9,63
+4-year,Private not-for-profit,1714,21,63
+2-year,Public,6331,24.7,63
+4-year,Private not-for-profit,1728,27.1,62.9
+2-year,Public,2852,14.2,62.9
+4-year,Private not-for-profit,1897,34.2,62.9
+2-year,Public,5210,15.7,62.9
+4-year,Private not-for-profit,2113,17.7,62.9
+4-year,Private not-for-profit,665,17.9,62.8
+4-year,Private not-for-profit,482,20.9,62.8
+4-year,Private for-profit,486,42.2,62.8
+4-year,Private for-profit,508,40.8,62.8
+2-year,Private for-profit,88,22.8,62.8
+2-year,Public,9142,17.8,62.7
+4-year,Private not-for-profit,1037,14.3,62.7
+2-year,Public,2318,16.4,62.7
+2-year,Public,1866,22.4,62.7
+2-year,Public,1402,30.6,62.7
+2-year,Public,3888,18.9,62.7
+2-year,Public,1785,18.2,62.6
+4-year,Private not-for-profit,474,15.1,62.6
+4-year,Public,3873,20.1,62.6
+2-year,Public,834,50.8,62.6
+4-year,Public,11433,34.7,62.6
+4-year,Private not-for-profit,234,21.1,62.5
+4-year,Private not-for-profit,1609,34.6,62.5
+2-year,Public,1931,20.3,62.5
+2-year,Public,1997,20.6,62.5
+4-year,Public,742,23.8,62.4
+2-year,Private not-for-profit,445,34.4,62.4
+2-year,Public,3226,16.8,62.4
+2-year,Public,6127,21.3,62.3
+2-year,Public,1031,13.6,62.2
+2-year,Public,19672,14.3,62.2
+4-year,Private for-profit,783,18.2,62.2
+2-year,Public,6570,17.7,62.1
+4-year,Public,19217,22.3,62.1
+4-year,Private not-for-profit,2795,20.2,62.1
+4-year,Public,20169,19.9,62
+4-year,Private not-for-profit,684,22.2,62
+2-year,Public,1959,18.1,61.9
+2-year,Public,825,36,61.9
+4-year,Private not-for-profit,327,21.9,61.9
+4-year,Private not-for-profit,637,22.3,61.9
+4-year,Private not-for-profit,1438,30.4,61.8
+2-year,Public,2667,26.2,61.8
+2-year,Public,844,44.2,61.8
+2-year,Public,626,41.5,61.7
+4-year,Private not-for-profit,538,18,61.7
+4-year,Public,6236,19.5,61.7
+2-year,Public,1541,30.1,61.7
+4-year,Private not-for-profit,890,22.7,61.7
+2-year,Public,447,36,61.7
+2-year,Public,1857,25.1,61.7
+4-year,Private not-for-profit,1358,37.3,61.7
+4-year,Private not-for-profit,690,20.3,61.7
+4-year,Private not-for-profit,725,21.5,61.7
+4-year,Public,6179,21.8,61.6
+2-year,Public,2934,21.6,61.6
+4-year,Public,11670,20.2,61.5
+4-year,Private not-for-profit,631,14.9,61.5
+4-year,Private not-for-profit,1547,21.1,61.5
+2-year,Public,3359,21.1,61.5
+4-year,Private not-for-profit,2593,20.3,61.5
+4-year,Private not-for-profit,1623,17.7,61.4
+2-year,Public,4758,19.5,61.4
+4-year,Private not-for-profit,928,16.2,61.4
+4-year,Private not-for-profit,3048,14.9,61.4
+2-year,Public,12365,17.9,61.4
+4-year,Private not-for-profit,1381,22.1,61.4
+4-year,Private not-for-profit,152,24.6,61.3
+2-year,Private for-profit,847,44.2,61.2
+4-year,Private not-for-profit,2096,16.5,61.2
+4-year,Public,13891,20.4,61.2
+2-year,Public,6929,20.1,61.2
+4-year,Private not-for-profit,1043,20,61.2
+2-year,Public,3790,23,61.2
+2-year,Public,2036,15,61.1
+2-year,Public,3609,21.5,61.1
+4-year,Private for-profit,86,40.1,61.1
+2-year,Public,13498,14.8,61
+4-year,Private for-profit,1282,33.8,61
+4-year,Public,2370,12.9,61
+4-year,Private not-for-profit,657,20.8,61
+4-year,Public,21441,19.6,61
+4-year,Private not-for-profit,559,16.1,61
+4-year,Private not-for-profit,2200,19.4,60.9
+4-year,Private for-profit,381,35.1,60.9
+4-year,Public,15954,19.7,60.9
+2-year,Public,4522,23.6,60.9
+2-year,Public,3595,14.5,60.8
+4-year,Private not-for-profit,2154,37,60.8
+4-year,Private not-for-profit,1247,25,60.7
+4-year,Public,10076,20,60.7
+4-year,Public,9172,19.8,60.7
+2-year,Public,4646,16,60.7
+4-year,Public,12794,19.5,60.7
+4-year,Private for-profit,122,38.8,60.6
+2-year,Public,7104,19.8,60.6
+4-year,Private not-for-profit,1738,12.9,60.6
+2-year,Public,4715,15.3,60.6
+4-year,Private for-profit,1420,26,60.6
+4-year,Private not-for-profit,748,20.2,60.4
+4-year,Private for-profit,443,33.9,60.4
+2-year,Public,7504,18.4,60.4
+2-year,Public,5221,21.7,60.4
+4-year,Private not-for-profit,1371,20.3,60.3
+2-year,Private for-profit,533,30.4,60.3
+4-year,Private for-profit,3687,23.3,60.3
+4-year,Private not-for-profit,1502,27.2,60.3
+4-year,Private not-for-profit,1082,19.1,60.3
+4-year,Private not-for-profit,818,17.3,60.2
+4-year,Public,17509,18.9,60.2
+2-year,Public,2242,28.2,60.2
+2-year,Public,2324,40.4,60.1
+2-year,Public,8464,17,60
+2-year,Private for-profit,23,29.3,60
+4-year,Private not-for-profit,586,21.6,60
+2-year,Public,18698,12.3,60
+2-year,Private for-profit,199,31.7,59.9
+4-year,Private not-for-profit,1183,11.6,59.9
+2-year,Public,2506,21.6,59.9
+4-year,Public,4155,16.6,59.8
+2-year,Private for-profit,630,35.2,59.8
+4-year,Public,2211,17.3,59.8
+4-year,Public,24923,19.5,59.8
+2-year,Public,2673,17,59.8
+4-year,Public,3674,17.8,59.7
+2-year,Public,2832,45.7,59.7
+4-year,Private not-for-profit,1116,17,59.7
+4-year,Public,9245,16.9,59.7
+4-year,Private not-for-profit,2946,17,59.6
+4-year,Public,7575,17.3,59.6
+4-year,Public,7144,20.2,59.6
+4-year,Public,5888,19.4,59.6
+4-year,Public,7276,18.9,59.6
+2-year,Public,2694,35.4,59.6
+4-year,Public,7836,24.5,59.5
+4-year,Private not-for-profit,878,18.4,59.5
+4-year,Private not-for-profit,1486,42,59.5
+4-year,Private not-for-profit,133,24.2,59.5
+2-year,Public,1968,25,59.5
+2-year,Private not-for-profit,326,17.4,59.5
+2-year,Public,3225,53.9,59.4
+4-year,Public,13730,17,59.4
+4-year,Public,5746,14.6,59.4
+4-year,Public,1809,15.8,59.4
+2-year,Public,3018,16.6,59.3
+4-year,Public,15053,16.9,59.3
+2-year,Public,3151,29.5,59.3
+4-year,Private not-for-profit,8290,19.3,59.2
+4-year,Private not-for-profit,2504,12.8,59.2
+2-year,Public,2410,33.1,59.2
+4-year,Private for-profit,988,22.3,59.1
+4-year,Private not-for-profit,362,24.1,59.1
+4-year,Private not-for-profit,1791,25.6,59
+2-year,Private for-profit,464,30.2,59
+4-year,Private not-for-profit,1795,25.2,58.9
+2-year,Private not-for-profit,225,50.9,58.9
+2-year,Public,3109,26.1,58.9
+4-year,Private not-for-profit,1820,25.4,58.9
+2-year,Public,2558,23.8,58.8
+4-year,Private not-for-profit,2350,19.7,58.8
+2-year,Public,2263,27.5,58.8
+4-year,Public,4770,20.7,58.8
+4-year,Public,1901,19.3,58.8
+4-year,Public,1209,20.3,58.7
+4-year,Public,892,14.3,58.7
+4-year,Public,9182,21.6,58.7
+4-year,Public,994,16.8,58.7
+4-year,Public,1263,21.6,58.7
+4-year,Private not-for-profit,2653,18.4,58.7
+2-year,Public,1086,30.6,58.7
+4-year,Private not-for-profit,378,21.2,58.6
+4-year,Private not-for-profit,1276,22.5,58.6
+2-year,Public,7157,16.3,58.6
+4-year,Public,7098,24.2,58.6
+4-year,Private not-for-profit,1339,18.7,58.6
+4-year,Private not-for-profit,553,21.1,58.6
+2-year,Public,463,39.4,58.6
+2-year,Public,3191,31.8,58.6
+2-year,Public,16463,17.8,58.5
+2-year,Private for-profit,360,34.7,58.5
+2-year,Public,5394,11.9,58.5
+4-year,Public,3526,26.6,58.5
+4-year,Public,4358,17.6,58.4
+4-year,Private not-for-profit,442,14.4,58.4
+2-year,Public,2604,20.8,58.4
+2-year,Public,8781,25.7,58.4
+2-year,Public,2563,17.6,58.4
+4-year,Private not-for-profit,1011,24.4,58.4
+4-year,Public,2920,14.6,58.4
+2-year,Public,6050,25.3,58.4
+4-year,Public,4703,21.2,58.3
+2-year,Public,769,16.1,58.3
+4-year,Private not-for-profit,1449,21.4,58.2
+4-year,Private for-profit,845,20.3,58.2
+2-year,Public,4905,21.1,58.2
+2-year,Public,6992,19.1,58.2
+4-year,Private not-for-profit,1388,24.8,58.2
+2-year,Public,9969,15.9,58.2
+4-year,Private not-for-profit,6117,25,58.2
+2-year,Private for-profit,693,62.6,58.2
+4-year,Private not-for-profit,4004,22.5,58.1
+4-year,Public,26740,29.4,58.1
+4-year,Public,11136,22.6,58.1
+4-year,Public,26658,27,58
+4-year,Private not-for-profit,1896,20.3,58
+4-year,Public,3530,14.7,58
+2-year,Public,26155,14.7,58
+4-year,Public,6252,14,58
+4-year,Private not-for-profit,1741,21.4,57.9
+4-year,Private not-for-profit,340,10.7,57.9
+4-year,Private not-for-profit,1234,34.2,57.9
+2-year,Public,13825,12.3,57.9
+2-year,Private for-profit,683,26.1,57.8
+4-year,Public,8004,22.8,57.8
+4-year,Public,1819,22,57.7
+4-year,Private not-for-profit,1037,15.9,57.7
+4-year,Private not-for-profit,443,19.8,57.7
+2-year,Private for-profit,462,32,57.7
+4-year,Public,18779,23.8,57.7
+4-year,Private not-for-profit,3965,21,57.7
+4-year,Private not-for-profit,1483,18.6,57.7
+4-year,Private not-for-profit,1692,21.1,57.6
+2-year,Public,3416,20.7,57.6
+4-year,Private not-for-profit,1513,19.3,57.6
+4-year,Private not-for-profit,1785,26.6,57.6
+4-year,Private not-for-profit,1143,23.9,57.6
+4-year,Private not-for-profit,2240,23,57.5
+4-year,Private not-for-profit,2106,22.8,57.5
+4-year,Private not-for-profit,96,21.4,57.5
+4-year,Private not-for-profit,1458,30.9,57.5
+4-year,Private for-profit,1204,23.6,57.5
+4-year,Private not-for-profit,1902,21.7,57.5
+4-year,Private not-for-profit,4247,26.1,57.5
+4-year,Private not-for-profit,4402,19.7,57.5
+2-year,Public,2400,17.9,57.4
+4-year,Private not-for-profit,578,12.3,57.4
+4-year,Private not-for-profit,9698,24.9,57.4
+4-year,Private not-for-profit,545,24.9,57.4
+4-year,Private not-for-profit,18165,19.4,57.4
+4-year,Private not-for-profit,3614,20.7,57.3
+4-year,Public,9615,20.6,57.3
+2-year,Public,9335,17.4,57.3
+2-year,Public,14023,11.1,57.3
+4-year,Private not-for-profit,1050,31.3,57.3
+2-year,Public,4051,17.3,57.2
+4-year,Private not-for-profit,698,37.2,57.2
+4-year,Private not-for-profit,2380,21.5,57.2
+4-year,Private not-for-profit,2849,24.4,57.2
+4-year,Private not-for-profit,1300,22.7,57.2
+4-year,Private not-for-profit,1321,20.6,57.2
+4-year,Private not-for-profit,3758,23.5,57.2
+4-year,Private not-for-profit,2176,21.6,57.2
+4-year,Private not-for-profit,2724,21.2,57.2
+4-year,Private not-for-profit,1930,22,57.2
+4-year,Public,4245,21.2,57.2
+4-year,Public,4584,17.7,57.1
+4-year,Private not-for-profit,482,20.1,57.1
+4-year,Private not-for-profit,1710,22.1,57.1
+2-year,Public,2240,22.9,57.1
+4-year,Private not-for-profit,1492,22.2,57
+4-year,Private not-for-profit,10534,18.9,56.9
+4-year,Private not-for-profit,2912,22.3,56.9
+2-year,Public,6740,17.8,56.9
+4-year,Private not-for-profit,1687,19.7,56.9
+2-year,Private not-for-profit,302,67.3,56.9
+4-year,Private not-for-profit,1948,24.6,56.9
+4-year,Public,12734,18.7,56.9
+4-year,Private not-for-profit,266,24.2,56.9
+4-year,Public,22134,23.5,56.8
+4-year,Public,12366,21.1,56.8
+2-year,Public,5377,15.4,56.8
+4-year,Private not-for-profit,3897,22.6,56.8
+4-year,Public,2120,20.2,56.8
+4-year,Private not-for-profit,4528,24.5,56.7
+4-year,Public,1376,16.3,56.6
+2-year,Public,8272,16.1,56.6
+4-year,Private not-for-profit,2758,20.5,56.6
+2-year,Public,9702,17,56.6
+4-year,Private not-for-profit,392,16.9,56.5
+4-year,Private not-for-profit,2183,23,56.5
+4-year,Private not-for-profit,1268,19.7,56.5
+2-year,Public,4734,17.8,56.5
+4-year,Private not-for-profit,484,22.3,56.4
+4-year,Private not-for-profit,431,22.9,56.4
+4-year,Private not-for-profit,962,14.7,56.4
+4-year,Private not-for-profit,1281,22.9,56.4
+4-year,Public,1538,23.3,56.4
+2-year,Public,7750,17.7,56.4
+4-year,Private for-profit,779,24.2,56.4
+4-year,Private not-for-profit,13223,20.8,56.3
+2-year,Public,7352,18,56.3
+4-year,Private not-for-profit,1347,27.4,56.3
+4-year,Private not-for-profit,313,18.9,56.3
+2-year,Public,4576,19.1,56.2
+2-year,Public,8582,18,56.2
+4-year,Private not-for-profit,1188,33.3,56.1
+2-year,Public,2437,16.8,56.1
+4-year,Public,7664,20.9,56.1
+2-year,Private for-profit,699,56.7,56.1
+4-year,Private not-for-profit,1732,26.5,56.1
+4-year,Private not-for-profit,350,40.6,56
+4-year,Private not-for-profit,2606,25.4,56
+4-year,Private not-for-profit,2182,21.4,56
+2-year,Public,6792,19.9,56
+4-year,Public,7437,18.6,56
+4-year,Private not-for-profit,2481,24.2,56
+4-year,Private not-for-profit,5658,22.6,56
+4-year,Private not-for-profit,5180,28.9,56
+4-year,Private not-for-profit,2474,22.5,55.9
+4-year,Private not-for-profit,4012,19.1,55.9
+4-year,Private not-for-profit,2667,22.3,55.9
+4-year,Public,5692,22,55.9
+4-year,Private not-for-profit,1654,23,55.9
+4-year,Private not-for-profit,880,17.4,55.9
+4-year,Private not-for-profit,2096,25.2,55.9
+4-year,Private not-for-profit,4134,25.8,55.8
+4-year,Public,5556,18.9,55.8
+4-year,Private not-for-profit,1649,17.9,55.7
+4-year,Private not-for-profit,1307,23.8,55.7
+4-year,Private not-for-profit,1419,20.9,55.7
+2-year,Public,1712,29.2,55.7
+4-year,Private not-for-profit,1905,21,55.6
+4-year,Private not-for-profit,1863,21.1,55.6
+4-year,Private not-for-profit,2815,21.3,55.6
+4-year,Private not-for-profit,4948,19,55.5
+2-year,Public,2305,31.1,55.5
+4-year,Private not-for-profit,3959,20.3,55.5
+4-year,Public,20534,20,55.4
+2-year,Public,9683,26.5,55.4
+4-year,Private not-for-profit,457,39.9,55.4
+4-year,Private not-for-profit,584,20.4,55.4
+4-year,Private not-for-profit,1363,22.6,55.4
+4-year,Private not-for-profit,7356,27.8,55.4
+2-year,Public,10272,30.1,55.3
+4-year,Private not-for-profit,2888,27,55.3
+4-year,Public,19189,18.7,55.3
+4-year,Public,13477,28.2,55.3
+2-year,Public,1221,24.5,55.2
+4-year,Private not-for-profit,1684,18.3,55.2
+2-year,Public,1099,30.2,55.2
+4-year,Private not-for-profit,579,14.9,55.2
+4-year,Private not-for-profit,2200,21.5,55.2
+2-year,Public,16590,15.9,55.2
+4-year,Public,21235,21.7,55.2
+4-year,Private not-for-profit,194,17,55.1
+2-year,Public,13836,11.8,55.1
+4-year,Private not-for-profit,3388,20.8,55.1
+4-year,Private for-profit,343,41.6,55
+2-year,Public,5665,19.7,55
+4-year,Private not-for-profit,1458,21.5,55
+2-year,Public,10192,16.5,54.9
+2-year,Public,6123,19.6,54.9
+2-year,Public,1805,32.9,54.9
+2-year,Public,4230,19,54.8
+4-year,Public,2429,25.2,54.8
+2-year,Public,17562,16.8,54.8
+4-year,Private not-for-profit,3033,24.9,54.7
+2-year,Public,23446,20.8,54.7
+4-year,Private not-for-profit,3352,34.9,54.7
+4-year,Private not-for-profit,1041,16.9,54.7
+4-year,Private not-for-profit,1117,29.5,54.6
+4-year,Public,28283,24.1,54.6
+4-year,Public,37985,23.2,54.5
+4-year,Public,5617,20.4,54.5
+4-year,Public,7144,20.6,54.5
+4-year,Public,7143,18.4,54.5
+2-year,Public,4552,14.6,54.4
+2-year,Public,3777,19.9,54.4
+2-year,Public,1944,16.9,54.4
+4-year,Private not-for-profit,4005,23.5,54.3
+2-year,Public,4879,17.2,54.3
+2-year,Public,2790,20.4,54.3
+4-year,Public,8221,19.7,54.2
+4-year,Public,4724,23.8,54.2
+4-year,Private not-for-profit,2964,38.9,54.2
+2-year,Public,26405,14,54.1
+4-year,Public,16594,19.2,54.1
+4-year,Private not-for-profit,1119,18.8,54.1
+4-year,Private not-for-profit,288,22.9,54.1
+4-year,Private not-for-profit,264,26.1,54.1
+4-year,Public,9163,15.7,54
+2-year,Public,12385,16.7,53.9
+4-year,Private not-for-profit,2424,46.9,53.9
+2-year,Public,4324,22,53.9
+2-year,Public,2802,20,53.9
+4-year,Private not-for-profit,2968,28.6,53.9
+4-year,Private not-for-profit,525,19.8,53.9
+2-year,Public,12327,15.9,53.8
+2-year,Public,18119,16.3,53.8
+4-year,Public,18602,16.6,53.8
+2-year,Public,1487,21.8,53.8
+4-year,Public,19198,21.5,53.7
+4-year,Private for-profit,149,26.7,53.7
+2-year,Public,2845,29.1,53.7
+2-year,Public,2249,25.9,53.7
+2-year,Public,9320,17,53.6
+4-year,Private not-for-profit,2716,24.4,53.6
+2-year,Public,3308,25.1,53.6
+2-year,Public,1216,40.4,53.6
+4-year,Public,4727,21.7,53.6
+4-year,Private not-for-profit,579,18.2,53.6
+4-year,Private not-for-profit,3280,25.8,53.6
+2-year,Public,4350,26,53.6
+4-year,Private not-for-profit,2045,24.6,53.5
+4-year,Private not-for-profit,2531,21.8,53.5
+4-year,Private not-for-profit,2206,24.5,53.5
+2-year,Public,3128,26.2,53.5
+4-year,Private not-for-profit,763,17.8,53.5
+2-year,Public,5394,23.3,53.4
+4-year,Private for-profit,201,33.2,53.4
+2-year,Public,6464,29.4,53.4
+4-year,Private for-profit,898,25.2,53.4
+2-year,Public,3231,31.1,53.4
+4-year,Private not-for-profit,2449,25,53.3
+4-year,Private not-for-profit,2164,19.2,53.3
+2-year,Public,6402,21.1,53.3
+2-year,Public,1376,26.2,53.3
+2-year,Public,5944,18,53.2
+2-year,Public,1248,28.3,53.2
+4-year,Private for-profit,1161,22.8,53.2
+4-year,Private not-for-profit,2039,23.3,53.1
+2-year,Public,3410,22.5,53.1
+4-year,Public,13467,18.4,53.1
+4-year,Private for-profit,1122,24.7,53.1
+2-year,Public,1425,27.4,53.1
+4-year,Public,7647,33.8,53.1
+4-year,Public,34449,21,53.1
+4-year,Public,2839,17.3,53
+2-year,Private for-profit,235,71.4,53
+4-year,Private not-for-profit,688,23.8,53
+2-year,Public,9691,16.5,53
+4-year,Private for-profit,262,36.7,53
+4-year,Private not-for-profit,101,27.5,53
+4-year,Public,10079,19.9,52.9
+4-year,Public,1946,17.6,52.9
+4-year,Private for-profit,947,30,52.9
+4-year,Public,6163,21.8,52.9
+2-year,Public,7562,19.5,52.8
+4-year,Private for-profit,371,15.2,52.8
+4-year,Private for-profit,237,30,52.8
+2-year,Public,9508,15,52.8
+4-year,Private not-for-profit,1301,17,52.8
+2-year,Public,3792,31.2,52.8
+4-year,Private not-for-profit,3149,23.6,52.8
+4-year,Private not-for-profit,113,76.8,52.8
+4-year,Private not-for-profit,143,32,52.8
+2-year,Public,1098,23.1,52.8
+2-year,Public,315,26.9,52.7
+2-year,Public,6057,22.5,52.7
+4-year,Private not-for-profit,2051,23.5,52.7
+2-year,Public,4946,27.5,52.7
+4-year,Public,15134,20.8,52.7
+4-year,Private not-for-profit,1871,22.8,52.6
+4-year,Private not-for-profit,1932,31.3,52.6
+4-year,Private not-for-profit,3125,23.4,52.6
+4-year,Private not-for-profit,1139,23.5,52.5
+4-year,Private not-for-profit,2917,25.1,52.4
+4-year,Private not-for-profit,6321,20.6,52.4
+4-year,Private not-for-profit,3559,25.1,52.4
+4-year,Private for-profit,5485,30.7,52.4
+2-year,Public,6740,18.6,52.3
+4-year,Public,6467,14,52.3
+2-year,Public,711,17.7,52.3
+4-year,Private not-for-profit,1071,33.9,52.3
+2-year,Public,3766,32.6,52.2
+2-year,Public,2207,31,52.2
+4-year,Public,8253,20.4,52.2
+2-year,Public,10073,19.9,52.2
+4-year,Public,3157,12.7,52.2
+4-year,Private not-for-profit,2749,21.4,52.2
+4-year,Private not-for-profit,520,22.4,52.2
+2-year,Public,2073,15.6,52.2
+2-year,Private for-profit,485,24.7,52.2
+2-year,Public,3157,25.5,52.2
+4-year,Public,2638,21.9,52.1
+2-year,Public,2572,16.9,52.1
+2-year,Public,4364,12.9,52.1
+2-year,Public,11893,18.8,52.1
+2-year,Public,5911,19,52
+2-year,Public,5693,21.2,52
+4-year,Public,6903,16.5,52
+2-year,Public,4443,20.8,52
+2-year,Public,3713,27.5,51.9
+4-year,Private not-for-profit,744,22.3,51.9
+2-year,Public,2950,22.3,51.9
+4-year,Public,16677,18.3,51.9
+4-year,Public,2429,26.1,51.9
+4-year,Public,1926,16.4,51.9
+4-year,Private not-for-profit,2905,22.3,51.8
+2-year,Public,10106,23.5,51.8
+4-year,Public,16399,19.2,51.8
+2-year,Public,3271,18.9,51.8
+2-year,Public,7871,15.2,51.7
+2-year,Public,5170,26.6,51.7
+4-year,Private not-for-profit,922,14,51.7
+2-year,Public,2021,23.8,51.7
+4-year,Public,12475,20.9,51.7
+4-year,Private not-for-profit,878,15.5,51.6
+4-year,Private not-for-profit,2257,23.8,51.6
+2-year,Private for-profit,277,37.9,51.6
+4-year,Private not-for-profit,1401,19.8,51.6
+4-year,Private for-profit,602,41.7,51.6
+4-year,Private not-for-profit,305,19,51.6
+4-year,Private not-for-profit,832,54.7,51.6
+4-year,Private not-for-profit,272,26.2,51.6
+4-year,Private not-for-profit,302,26,51.5
+4-year,Private not-for-profit,1107,21.6,51.5
+4-year,Public,9974,21.5,51.5
+4-year,Private not-for-profit,66,29.1,51.5
+4-year,Private not-for-profit,15998,30.4,51.5
+4-year,Private not-for-profit,99,23.2,51.5
+4-year,Private not-for-profit,277,34.5,51.4
+2-year,Public,5845,16.3,51.4
+4-year,Private not-for-profit,830,19.8,51.4
+4-year,Private not-for-profit,4231,31.1,51.4
+2-year,Public,3900,15.9,51.4
+2-year,Private for-profit,555,32.4,51.3
+4-year,Private not-for-profit,2077,22.1,51.3
+4-year,Private not-for-profit,1328,31.2,51.3
+2-year,Public,14798,18.9,51.3
+4-year,Private not-for-profit,1198,26.8,51.3
+4-year,Public,1298,12.3,51.3
+4-year,Private for-profit,372,37.2,51.3
+2-year,Public,5194,20.4,51.2
+4-year,Private not-for-profit,739,18.4,51.2
+4-year,Public,2892,16.1,51.2
+4-year,Private not-for-profit,8453,19.1,51.2
+2-year,Public,1294,36.3,51.2
+2-year,Public,19234,17.5,51.2
+4-year,Private not-for-profit,2829,23.9,51.1
+2-year,Private for-profit,137,39.1,51.1
+2-year,Private for-profit,179,2.7,51.1
+4-year,Private not-for-profit,261,31.4,51.1
+2-year,Public,4508,20.2,51.1
+4-year,Private for-profit,298,26.8,51.1
+4-year,Private not-for-profit,3950,19,51.1
+4-year,Private for-profit,553,54,51.1
+4-year,Public,5587,22.9,51.1
+4-year,Private for-profit,108,31.1,51.1
+4-year,Private not-for-profit,1656,13.1,51.1
+4-year,Public,5616,16.2,51
+4-year,Public,26928,22.4,51
+4-year,Public,10227,20.8,51
+4-year,Public,6145,20.7,51
+4-year,Public,13569,24.1,50.9
+2-year,Public,5710,18.6,50.9
+4-year,Public,5898,22.4,50.9
+4-year,Public,5542,19.2,50.9
+4-year,Private not-for-profit,751,19.7,50.9
+4-year,Private not-for-profit,1513,19.7,50.9
+4-year,Private not-for-profit,10198,27,50.9
+4-year,Private for-profit,172,24.7,50.8
+4-year,Private not-for-profit,2097,24.9,50.8
+4-year,Private not-for-profit,2241,26.4,50.8
+4-year,Private for-profit,303,47.2,50.8
+4-year,Private not-for-profit,12567,18.4,50.8
+4-year,Private not-for-profit,245,26,50.8
+2-year,Public,24005,11.5,50.7
+4-year,Private not-for-profit,2962,23.5,50.7
+2-year,Public,2123,19,50.7
+2-year,Private for-profit,295,6.1,50.7
+2-year,Public,5185,18.9,50.7
+4-year,Private not-for-profit,647,22.6,50.7
+4-year,Public,10605,17.9,50.7
+4-year,Public,18027,21.3,50.7
+2-year,Public,4399,15.1,50.7
+2-year,Public,1774,26.6,50.6
+4-year,Private not-for-profit,7336,23,50.6
+4-year,Private not-for-profit,3528,32,50.6
+2-year,Private not-for-profit,851,15.1,50.6
+4-year,Private not-for-profit,1026,18.6,50.6
+4-year,Private not-for-profit,1044,24,50.6
+4-year,Private not-for-profit,1002,28.5,50.6
+2-year,Private not-for-profit,450,16.1,50.6
+2-year,Public,913,14.2,50.5
+4-year,Private not-for-profit,1431,20.4,50.5
+2-year,Public,372,32.5,50.5
+2-year,Public,201,12.1,50.5
+4-year,Public,4465,19.6,50.4
+2-year,Public,2216,21,50.4
+2-year,Public,139,13.4,50.4
+2-year,Public,405,13,50.4
+2-year,Public,1875,25.5,50.3
+4-year,Private not-for-profit,1046,26.2,50.3
+2-year,Public,1430,20.7,50.3
+2-year,Public,329,16.7,50.3
+2-year,Public,422,30.2,50.3
+4-year,Public,1844,17.9,50.3
+4-year,Public,13174,16.7,50.3
+4-year,Public,12254,19.5,50.3
+4-year,Public,1250,23.9,50.2
+4-year,Private not-for-profit,988,16.7,50.2
+4-year,Private not-for-profit,840,21.1,50.2
+4-year,Public,1455,16.8,50.2
+4-year,Private not-for-profit,6202,39.6,50.2
+4-year,Private not-for-profit,780,30.9,50.2
+4-year,Private not-for-profit,627,25.5,50.2
+2-year,Public,6906,23.5,50.2
+4-year,Public,2432,17.5,50.1
+4-year,Private not-for-profit,1508,20,50.1
+4-year,Private not-for-profit,4076,22.3,50.1
+4-year,Private not-for-profit,1113,18.6,50.1
+4-year,Private not-for-profit,410,28.5,50.1
+4-year,Private not-for-profit,1118,19.6,50
+4-year,Public,5502,16,50
+4-year,Private for-profit,472,22.3,50
+4-year,Private not-for-profit,742,33.1,50
+2-year,Public,15752,12.1,50
+2-year,Public,2491,21.3,50
+4-year,Private not-for-profit,1192,22.6,50
+4-year,Private not-for-profit,150,20.3,49.9
+4-year,Public,12335,20,49.9
+4-year,Private for-profit,728,23.4,49.9
+2-year,Public,199,9.7,49.9
+4-year,Private not-for-profit,1927,21.7,49.8
+4-year,Public,19376,20.7,49.8
+2-year,Public,5145,23.3,49.8
+4-year,Public,2158,20.9,49.8
+4-year,Private not-for-profit,735,25.9,49.8
+2-year,Public,9751,17,49.8
+4-year,Private not-for-profit,821,20.1,49.7
+2-year,Private for-profit,330,26.6,49.7
+2-year,Public,300,29.4,49.6
+4-year,Public,2991,18.8,49.6
+2-year,Public,1960,17,49.6
+4-year,Private not-for-profit,459,17.4,49.6
+2-year,Private for-profit,556,28.2,49.6
+4-year,Public,34177,11.2,49.6
+4-year,Private for-profit,1097,15.2,49.5
+2-year,Private for-profit,915,36.1,49.5
+4-year,Public,23097,20.1,49.5
+4-year,Public,15694,20,49.5
+4-year,Public,3164,22.2,49.5
+4-year,Private for-profit,374,16.3,49.5
+4-year,Private not-for-profit,529,18.4,49.4
+2-year,Public,11204,16.3,49.4
+4-year,Public,3975,19.1,49.4
+4-year,Private not-for-profit,1409,16.9,49.4
+4-year,Private for-profit,632,24.4,49.4
+4-year,Private not-for-profit,4276,25.3,49.4
+4-year,Private not-for-profit,1671,24.3,49.4
+4-year,Private for-profit,2284,35.1,49.3
+2-year,Private not-for-profit,87,29.3,49.3
+4-year,Private not-for-profit,1478,16.4,49.3
+4-year,Private not-for-profit,18083,17,49.3
+4-year,Public,12516,21.1,49.3
+4-year,Public,4799,22.8,49.3
+4-year,Public,833,25.2,49.3
+4-year,Public,4065,21.1,49.3
+2-year,Public,4288,20.7,49.3
+2-year,Public,937,26,49.3
+2-year,Public,987,23,49.2
+2-year,Public,1181,22,49.2
+2-year,Public,2898,14.8,49.2
+2-year,Public,2242,17.7,49.2
+2-year,Public,2122,16.6,49.2
+4-year,Private not-for-profit,1591,32.8,49.2
+4-year,Private not-for-profit,1923,21,49.1
+2-year,Private not-for-profit,131,46.9,49.1
+4-year,Public,1723,28.3,49.1
+2-year,Public,7254,14.4,49.1
+2-year,Public,15882,17.8,49.1
+4-year,Private for-profit,3671,20.2,49.1
+4-year,Private not-for-profit,1972,14,49.1
+2-year,Public,14360,17.9,49.1
+2-year,Public,9570,16.3,49
+4-year,Private not-for-profit,1578,22.9,49
+2-year,Public,13301,16.5,49
+4-year,Private not-for-profit,1708,28.4,49
+2-year,Public,8447,17.6,49
+2-year,Public,3919,18.8,49
+4-year,Private not-for-profit,1493,18.4,49
+2-year,Public,12175,12.7,48.9
+4-year,Private not-for-profit,6108,24,48.9
+4-year,Private not-for-profit,1621,23,48.9
+4-year,Private not-for-profit,2274,19.3,48.9
+4-year,Private not-for-profit,1567,26.3,48.8
+4-year,Public,10951,24.3,48.8
+2-year,Public,6720,16.2,48.8
+2-year,Private for-profit,1034,50.3,48.8
+2-year,Public,9036,11.7,48.8
+4-year,Public,6437,20.4,48.8
+4-year,Public,12078,22.6,48.8
+2-year,Public,8501,15.9,48.8
+2-year,Public,12602,14.9,48.8
+4-year,Private not-for-profit,4607,22.3,48.7
+4-year,Public,15431,22.6,48.7
+4-year,Public,7317,14.9,48.7
+2-year,Public,9477,19.6,48.7
+2-year,Public,9129,10.3,48.7
+4-year,Private not-for-profit,5323,23.7,48.7
+4-year,Private not-for-profit,239,8.8,48.7
+4-year,Public,5614,23.1,48.7
+4-year,Private not-for-profit,4425,24.1,48.7
+4-year,Public,4842,23.7,48.6
+4-year,Public,33901,20.4,48.6
+4-year,Public,7217,21.7,48.6
+4-year,Private not-for-profit,2484,21.4,48.6
+2-year,Public,1240,20.9,48.6
+4-year,Private not-for-profit,5839,21.1,48.6
+4-year,Private not-for-profit,987,35.2,48.6
+2-year,Public,8405,16.6,48.6
+4-year,Private not-for-profit,2691,18.6,48.5
+4-year,Public,7539,24.9,48.5
+4-year,Public,6653,21.3,48.5
+2-year,Public,11969,12.8,48.5
+4-year,Public,10027,20.1,48.5
+2-year,Public,28891,25.2,48.5
+4-year,Public,1956,17.8,48.5
+2-year,Public,8837,24.1,48.5
+2-year,Public,3596,21.3,48.5
+4-year,Public,4567,17.3,48.5
+2-year,Public,3883,18.8,48.5
+4-year,Public,392,14.3,48.4
+4-year,Public,2396,20.2,48.4
+2-year,Public,2320,15.5,48.4
+2-year,Public,470,20.4,48.4
+2-year,Public,2675,11,48.4
+4-year,Public,1604,15.4,48.4
+2-year,Public,744,12.2,48.4
+4-year,Public,22416,17.8,48.4
+2-year,Public,2458,15,48.4
+2-year,Public,1861,13.1,48.4
+2-year,Public,970,17.6,48.3
+4-year,Public,13582,20,48.3
+2-year,Public,2245,11.8,48.3
+4-year,Public,1653,14.6,48.3
+2-year,Public,8938,18.1,48.2
+2-year,Public,6265,18.6,48.2
+4-year,Private for-profit,826,12.3,48.2
+4-year,Private not-for-profit,318,17.4,48.2
+2-year,Public,530,14.7,48.2
+2-year,Public,1802,7.2,48.1
+2-year,Public,697,15.2,48.1
+4-year,Public,2849,16.8,48.1
+4-year,Private not-for-profit,1724,18.6,48.1
+4-year,Private not-for-profit,5040,26.5,48.1
+2-year,Public,4230,18.1,48.1
+4-year,Private for-profit,557,12.3,48
+4-year,Private for-profit,580,27.5,48
+4-year,Private not-for-profit,1078,3.3,48
+4-year,Private not-for-profit,1960,19.4,48
+2-year,Private not-for-profit,216,37.8,48
+2-year,Private not-for-profit,408,30,48
+4-year,Private not-for-profit,1365,27.8,48
+4-year,Private not-for-profit,2014,26.3,47.9
+4-year,Private not-for-profit,2489,25.5,47.9
+4-year,Private for-profit,4596,17.1,47.9
+2-year,Private not-for-profit,269,53.1,47.9
+4-year,Private not-for-profit,1050,27.2,47.8
+2-year,Private not-for-profit,796,24.6,47.8
+4-year,Private for-profit,1886,26.1,47.8
+2-year,Public,5894,21.8,47.8
+4-year,Private for-profit,413,27.9,47.8
+4-year,Private for-profit,452,32.7,47.8
+2-year,Private for-profit,522,21.2,47.8
+4-year,Private for-profit,740,19.9,47.8
+4-year,Private for-profit,389,26.6,47.7
+2-year,Private for-profit,56,30.2,47.7
+4-year,Private not-for-profit,3084,23.5,47.7
+2-year,Private for-profit,592,23.3,47.7
+2-year,Public,4410,17.5,47.7
+4-year,Private not-for-profit,1077,22.2,47.7
+4-year,Private not-for-profit,650,19.7,47.7
+4-year,Private not-for-profit,3110,20.7,47.6
+2-year,Public,1990,23.2,47.6
+4-year,Private not-for-profit,2890,24.3,47.6
+4-year,Private not-for-profit,911,20.9,47.6
+4-year,Private not-for-profit,7970,24.4,47.6
+2-year,Public,2118,24.9,47.5
+4-year,Private not-for-profit,887,20.3,47.5
+4-year,Private not-for-profit,868,20.6,47.5
+4-year,Private not-for-profit,14393,24.2,47.4
+2-year,Public,4929,20.6,47.4
+2-year,Private not-for-profit,336,46.1,47.4
+4-year,Private not-for-profit,2814,40.4,47.4
+4-year,Public,14082,22.5,47.4
+2-year,Public,24186,16,47.4
+2-year,Public,11368,15.2,47.3
+4-year,Public,13596,21.7,47.3
+4-year,Public,13465,17.6,47.3
+4-year,Public,12501,18.8,47.3
+2-year,Public,7006,15.1,47.3
+4-year,Public,16689,20.3,47.3
+4-year,Public,13217,22.6,47.3
+2-year,Public,18634,17.6,47.3
+2-year,Public,19564,18,47.3
+4-year,Public,9886,21.9,47.3
+4-year,Public,6477,18.3,47.3
+4-year,Public,16860,16.2,47.3
+4-year,Public,15351,22.4,47.3
+2-year,Public,16291,15.2,47.3
+4-year,Public,8261,16.1,47.2
+4-year,Private not-for-profit,2023,19.4,47.2
+4-year,Private not-for-profit,2156,22.8,47.2
+4-year,Private not-for-profit,1527,21.2,47.2
+4-year,Private not-for-profit,2314,23.8,47.2
+2-year,Public,10232,18.4,47.2
+2-year,Private not-for-profit,123,53.6,47.1
+2-year,Private for-profit,431,62.7,47.1
+4-year,Private not-for-profit,1408,20.1,47.1
+2-year,Public,13649,19.2,47.1
+4-year,Public,9566,37.5,47.1
+2-year,Public,6389,20.4,47.1
+4-year,Private for-profit,760,18.6,47.1
+4-year,Private not-for-profit,8345,22.6,47.1
+2-year,Public,2781,20.7,47
+2-year,Public,7079,19.7,47
+4-year,Private not-for-profit,1926,26.4,47
+4-year,Private not-for-profit,1618,20.1,47
+4-year,Private not-for-profit,396,58.8,47
+2-year,Public,3212,21,47
+4-year,Private not-for-profit,1020,22.8,46.9
+4-year,Private not-for-profit,2368,21.5,46.9
+4-year,Private not-for-profit,6826,23.5,46.9
+4-year,Private not-for-profit,1081,28.2,46.9
+2-year,Public,12841,21.4,46.8
+2-year,Private not-for-profit,103,21.5,46.8
+4-year,Private not-for-profit,3539,21.7,46.7
+2-year,Private for-profit,95,51.7,46.7
+4-year,Private not-for-profit,6234,23.3,46.7
+2-year,Public,5178,22.3,46.7
+4-year,Private for-profit,275,42.6,46.6
+2-year,Public,3931,22,46.6
+4-year,Private not-for-profit,163,14.4,46.6
+4-year,Private not-for-profit,581,17.9,46.6
+2-year,Private for-profit,274,37.7,46.6
+4-year,Private not-for-profit,120,14.7,46.6
+4-year,Private not-for-profit,1830,31,46.6
+4-year,Private for-profit,1513,20.1,46.5
+4-year,Private not-for-profit,2785,22.9,46.5
+4-year,Private not-for-profit,5006,14.8,46.5
+4-year,Private not-for-profit,7983,17.4,46.5
+2-year,Private for-profit,446,22.6,46.5
+4-year,Private not-for-profit,148,11.3,46.5
+2-year,Private for-profit,782,22.5,46.5
+4-year,Private not-for-profit,3403,22.7,46.5
+4-year,Private not-for-profit,377,23.1,46.5
+4-year,Private not-for-profit,1719,21.5,46.5
+4-year,Private not-for-profit,880,37,46.5
+4-year,Private not-for-profit,5566,23.8,46.5
+4-year,Private not-for-profit,1833,21.8,46.4
+4-year,Private not-for-profit,1727,26.3,46.4
+2-year,Private not-for-profit,123,70.9,46.4
+4-year,Private not-for-profit,8154,20,46.4
+4-year,Private not-for-profit,207,9.2,46.4
+2-year,Private for-profit,904,29.3,46.4
+4-year,Private not-for-profit,160,11.5,46.4
+2-year,Public,7433,18.2,46.4
+4-year,Private not-for-profit,3375,21,46.4
+4-year,Private for-profit,6794,25.3,46.4
+2-year,Public,16458,19.4,46.4
+4-year,Private not-for-profit,2203,24.5,46.3
+4-year,Private not-for-profit,1669,19.2,46.3
+2-year,Public,23318,16.1,46.2
+4-year,Private not-for-profit,2034,25.6,46.2
+4-year,Private not-for-profit,3225,23.2,46.2
+4-year,Private not-for-profit,6777,26.1,46.2
+4-year,Private not-for-profit,22615,22.5,46.2
+2-year,Public,6630,23.6,46.2
+4-year,Private not-for-profit,2896,30.4,46.2
+2-year,Public,2088,23.4,46.2
+4-year,Private not-for-profit,4456,24,46.1
+4-year,Private not-for-profit,451,36.6,46.1
+4-year,Private not-for-profit,1831,25,46.1
+2-year,Public,12834,14.7,46.1
+2-year,Public,7029,16.4,46.1
+4-year,Private not-for-profit,8289,19.9,46.1
+4-year,Private not-for-profit,981,24.1,46.1
+4-year,Private for-profit,726,22.5,46
+4-year,Private not-for-profit,2155,16.6,46
+4-year,Private not-for-profit,395,19.9,46
+4-year,Private not-for-profit,3311,19,46
+2-year,Private not-for-profit,884,27.6,46
+4-year,Private not-for-profit,166,12.5,46
+4-year,Private not-for-profit,263,20.5,46
+4-year,Private not-for-profit,269,11.7,46
+4-year,Private not-for-profit,5452,22.4,45.9
+4-year,Private not-for-profit,1315,30,45.9
+2-year,Private for-profit,617,25.8,45.9
+4-year,Private not-for-profit,13880,21.3,45.9
+4-year,Private not-for-profit,6177,22.7,45.9
+2-year,Public,7652,17.4,45.9
+4-year,Private not-for-profit,1699,26.7,45.9
+4-year,Private not-for-profit,1826,21.9,45.8
+4-year,Private not-for-profit,2764,19.1,45.8
+2-year,Private not-for-profit,302,46.9,45.8
+4-year,Private not-for-profit,2414,23.4,45.8
+4-year,Private not-for-profit,2891,22.7,45.8
+4-year,Private not-for-profit,1801,23.1,45.8
+2-year,Private not-for-profit,163,80.4,45.8
+4-year,Private not-for-profit,1471,23.7,45.8
+2-year,Public,6574,16.6,45.8
+4-year,Private not-for-profit,190,12.1,45.8
+4-year,Private not-for-profit,3151,25.7,45.7
+4-year,Private not-for-profit,2684,22.6,45.7
+4-year,Private not-for-profit,4529,26.7,45.7
+2-year,Private not-for-profit,159,60.1,45.7
+4-year,Private not-for-profit,2959,24.9,45.7
+2-year,Private for-profit,747,25.6,45.7
+4-year,Private not-for-profit,15773,18.1,45.7
+2-year,Private for-profit,614,21.6,45.7
+2-year,Public,1585,18.6,45.7
+4-year,Public,3555,29.6,45.7
+4-year,Public,3512,28.2,45.7
+4-year,Public,3308,29,45.7
+4-year,Public,2453,25.3,45.6
+4-year,Public,8162,22.5,45.6
+4-year,Public,3028,22.2,45.6
+4-year,Public,12822,24.5,45.6
+4-year,Public,12997,23.6,45.6
+4-year,Public,19831,21.8,45.6
+4-year,Public,15992,22.7,45.6
+4-year,Public,1702,24.2,45.6
+4-year,Public,1804,26.5,45.6
+4-year,Public,7090,25.7,45.6
+4-year,Public,9355,20.4,45.5
+4-year,Public,6400,23,45.5
+4-year,Public,5092,21.6,45.5
+4-year,Public,5504,22.5,45.5
+4-year,Public,6570,25,45.5
+4-year,Public,5800,23.1,45.5
+4-year,Public,7328,22.9,45.5
+4-year,Public,3707,18.2,45.4
+4-year,Public,4239,23,45.4
+4-year,Public,4161,20.3,45.4
+4-year,Public,5639,23.7,45.4
+4-year,Public,10827,32.7,45.4
+4-year,Public,1601,14.6,45.4
+2-year,Private for-profit,848,37.1,45.4
+4-year,Private not-for-profit,15097,19,45.4
+4-year,Private not-for-profit,321,1.2,45.3
+2-year,Private for-profit,3020,20.3,45.3
+2-year,Public,5490,18.7,45.3
+4-year,Private not-for-profit,180,1.2,45.3
+4-year,Private not-for-profit,6827,29.6,45.3
+4-year,Private not-for-profit,1492,34.5,45.2
+2-year,Public,3615,21.1,45.2
+4-year,Private not-for-profit,2246,24.7,45.2
+4-year,Private not-for-profit,1814,13.5,45.2
+4-year,Public,958,14.1,45.2
+4-year,Private not-for-profit,2881,22.6,45.2
+2-year,Private for-profit,324,30,45.2
+4-year,Private not-for-profit,2477,25.4,45.2
+4-year,Private not-for-profit,465,21.8,45.1
+4-year,Private for-profit,3636,21.4,45.1
+4-year,Private not-for-profit,1842,24.5,45.1
+4-year,Private not-for-profit,534,21.2,45.1
+4-year,Private for-profit,1197,21.9,45.1
+2-year,Public,13781,14.1,45.1
+2-year,Private for-profit,476,45.4,45
+4-year,Private not-for-profit,119,9.5,45
+4-year,Private not-for-profit,152,3.6,45
+4-year,Private not-for-profit,104,8.6,44.9
+4-year,Private not-for-profit,220,7.9,44.9
+4-year,Private not-for-profit,2887,34.2,44.9
+4-year,Private not-for-profit,470,14,44.9
+4-year,Private not-for-profit,164,2.3,44.9
+2-year,Public,2607,16.4,44.9
+4-year,Private for-profit,1427,17.3,44.9
+2-year,Public,2776,15.5,44.9
+4-year,Public,16025,21,44.9
+2-year,Public,8092,13.8,44.9
+4-year,Private not-for-profit,1057,21.6,44.8
+2-year,Public,2019,16,44.8
+4-year,Private not-for-profit,1647,21.2,44.8
+4-year,Private not-for-profit,680,15.8,44.8
+2-year,Public,1199,13.4,44.8
+2-year,Public,2324,12.9,44.8
+4-year,Private not-for-profit,701,19.2,44.7
+2-year,Public,1809,20.9,44.7
+4-year,Private not-for-profit,451,43.3,44.7
+2-year,Public,3933,19.8,44.7
+4-year,Private not-for-profit,4465,21.6,44.7
+2-year,Public,9246,15.3,44.7
+2-year,Public,1524,21.6,44.7
+4-year,Private not-for-profit,1298,23.1,44.6
+2-year,Public,4561,16.4,44.6
+4-year,Private for-profit,256,29.6,44.6
+2-year,Public,4728,18.5,44.6
+2-year,Public,20198,11,44.6
+4-year,Private not-for-profit,1361,10.8,44.6
+2-year,Public,3371,12.2,44.5
+2-year,Public,4433,16.8,44.5
+2-year,Public,3376,18,44.5
+2-year,Public,4073,18.4,44.5
+4-year,Private not-for-profit,1788,23.8,44.5
+4-year,Private not-for-profit,6646,20.8,44.4
+2-year,Public,5605,13.5,44.4
+4-year,Public,21508,20,44.4
+2-year,Public,2808,14.6,44.4
+4-year,Public,2336,14.9,44.4
+4-year,Private not-for-profit,5599,22.4,44.4
+2-year,Public,12398,10.8,44.4
+4-year,Public,5410,19.9,44.4
+2-year,Public,9528,13.3,44.4
+4-year,Private not-for-profit,2587,26.5,44.4
+2-year,Public,5977,17.3,44.3
+4-year,Private not-for-profit,974,19.9,44.3
+4-year,Private not-for-profit,2302,20.9,44.3
+2-year,Public,13656,16.8,44.3
+2-year,Public,1353,13,44.3
+2-year,Public,2290,17.2,44.3
+4-year,Private not-for-profit,3999,18.3,44.3
+2-year,Public,2390,14.9,44.3
+2-year,Public,1291,20.9,44.3
+4-year,Private not-for-profit,386,46.6,44.3
+4-year,Private not-for-profit,1387,16.2,44.3
+2-year,Public,4235,13.9,44.3
+4-year,Private not-for-profit,890,24.7,44.3
+2-year,Public,2813,12.5,44.3
+4-year,Private not-for-profit,1491,18.6,44.2
+4-year,Private not-for-profit,1175,10.2,44.2
+2-year,Private not-for-profit,678,13.4,44.2
+4-year,Private not-for-profit,1426,16.3,44.2
+2-year,Public,799,15.6,44.2
+2-year,Public,1254,14.8,44.2
+2-year,Public,1152,21.9,44.2
+4-year,Private not-for-profit,1571,22.5,44.2
+4-year,Private not-for-profit,2243,14.6,44.1
+4-year,Private for-profit,2856,20.7,44.1
+2-year,Public,3514,13.6,44.1
+2-year,Public,884,18.6,44
+4-year,Private not-for-profit,743,30.8,44
+4-year,Private not-for-profit,3414,29.8,44
+2-year,Public,3279,12,44
+4-year,Public,8872,14.6,44
+4-year,Public,3736,20.9,44
+4-year,Public,18370,25.2,44
+4-year,Public,21503,21,44
+4-year,Public,14753,20.7,44
+4-year,Public,6220,14.9,44
+4-year,Public,797,18.9,43.9
+4-year,Public,24536,22.6,43.9
+4-year,Private not-for-profit,1602,26.7,43.9
+4-year,Public,12447,22.9,43.9
+2-year,Public,597,14.3,43.9
+4-year,Private not-for-profit,1007,18.1,43.9
+4-year,Public,5429,17.3,43.9
+4-year,Private not-for-profit,951,21,43.9
+4-year,Private not-for-profit,197,23.8,43.9
+2-year,Public,1591,14,43.9
+2-year,Public,8902,15.3,43.8
+4-year,Private not-for-profit,1734,26.5,43.8
+2-year,Public,3024,16.9,43.8
+2-year,Public,2664,12.8,43.8
+4-year,Private not-for-profit,162,18.6,43.8
+2-year,Public,933,12,43.8
+2-year,Public,2260,13,43.7
+2-year,Public,1854,15.5,43.7
+2-year,Public,6731,15.2,43.7
+4-year,Private not-for-profit,1299,14.9,43.7
+4-year,Private not-for-profit,979,16.1,43.7
+2-year,Public,1538,17.1,43.6
+2-year,Public,4158,14.8,43.6
+4-year,Private not-for-profit,1923,16.5,43.5
+4-year,Private not-for-profit,595,20.7,43.5
+2-year,Public,1402,10.8,43.5
+2-year,Public,2242,19.7,43.5
+2-year,Public,2885,18.7,43.5
+2-year,Public,3454,16.4,43.5
+2-year,Public,4161,16.4,43.4
+2-year,Public,1412,15,43.4
+2-year,Public,4008,13.8,43.4
+4-year,Private not-for-profit,4823,23.6,43.4
+2-year,Public,19160,10.9,43.4
+4-year,Private not-for-profit,830,21.6,43.4
+2-year,Public,3837,15.8,43.4
+2-year,Public,2352,23.2,43.4
+2-year,Public,2753,20.4,43.4
+2-year,Public,2117,13.3,43.4
+4-year,Private not-for-profit,2009,15.9,43.4
+4-year,Public,4938,24.2,43.4
+4-year,Public,8448,23.7,43.4
+4-year,Private for-profit,964,30.2,43.4
+4-year,Public,4062,35.5,43.4
+4-year,Public,1449,22.9,43.3
+4-year,Public,203,19.8,43.3
+4-year,Private not-for-profit,955,16.9,43.3
+2-year,Public,1898,19.1,43.3
+2-year,Public,254,19.5,43.3
+4-year,Private not-for-profit,2044,20.6,43.3
+4-year,Public,1036,17.1,43.3
+4-year,Public,3254,21.1,43.3
+4-year,Public,11724,16.7,43.3
+2-year,Public,3168,27.6,43.3
+2-year,Public,793,28.4,43.3
+4-year,Public,11948,18,43.2
+2-year,Public,909,31.6,43.2
+4-year,Public,279,19.3,43.2
+4-year,Private not-for-profit,198,17.7,43.2
+4-year,Private not-for-profit,602,26.5,43.2
+4-year,Private not-for-profit,505,19.8,43.1
+4-year,Public,1211,21.6,43.1
+2-year,Private for-profit,161,31,43.1
+2-year,Private for-profit,243,27.5,43.1
+4-year,Private for-profit,302,24.7,43.1
+4-year,Public,20477,17.6,43.1
+2-year,Public,2020,5,43.1
+2-year,Private for-profit,180,24.6,43.1
+4-year,Private not-for-profit,207,18.3,43.1
+4-year,Private not-for-profit,3198,22.2,43.1
+4-year,Private not-for-profit,306,35.1,43.1
+4-year,Private not-for-profit,3425,22.5,43
+2-year,Public,1259,20,43
+4-year,Private not-for-profit,1053,23.4,43
+2-year,Private for-profit,356,41.1,43
+2-year,Public,2441,13.5,43
+4-year,Public,14477,19.1,43
+4-year,Private for-profit,662,19.5,43
+4-year,Private not-for-profit,2788,21.3,43
+4-year,Private not-for-profit,4661,21.8,43
+4-year,Private not-for-profit,3238,18.6,42.9
+2-year,Public,3648,19,42.9
+4-year,Public,2036,11,42.9
+2-year,Private not-for-profit,427,14.7,42.9
+4-year,Private not-for-profit,535,33.6,42.9
+4-year,Private not-for-profit,676,20.7,42.8
+4-year,Public,23706,23.3,42.8
+2-year,Public,11167,16,42.8
+4-year,Public,3446,16.9,42.8
+4-year,Public,4796,15,42.8
+4-year,Private not-for-profit,3528,17.2,42.8
+2-year,Public,5653,14.5,42.8
+4-year,Private not-for-profit,568,17.3,42.8
+4-year,Private not-for-profit,237,18.6,42.8
+4-year,Public,12133,19.8,42.7
+2-year,Private for-profit,449,37.6,42.7
+4-year,Private not-for-profit,1348,20.5,42.7
+2-year,Public,25249,12.6,42.7
+2-year,Public,27910,13.3,42.7
+2-year,Private for-profit,218,32.3,42.7
+4-year,Private not-for-profit,7975,21.1,42.7
+4-year,Private not-for-profit,892,21.3,42.7
+4-year,Private not-for-profit,2274,22.8,42.6
+2-year,Public,2993,20.8,42.6
+4-year,Private for-profit,538,15.7,42.6
+4-year,Private not-for-profit,3872,16.6,42.6
+4-year,Private not-for-profit,5185,32.9,42.6
+4-year,Private not-for-profit,305,20.2,42.6
+4-year,Private not-for-profit,355,36.4,42.6
+4-year,Private not-for-profit,1107,20.4,42.6
+4-year,Private not-for-profit,1283,22.2,42.5
+2-year,Public,4094,18.8,42.5
+4-year,Private for-profit,304,37.8,42.5
+2-year,Public,2929,16.5,42.5
+4-year,Private not-for-profit,3040,21.6,42.5
+4-year,Private for-profit,1656,45.8,42.5
+4-year,Public,2339,16.4,42.5
+4-year,Public,1671,16.7,42.5
+4-year,Public,4836,4.4,42.5
+4-year,Public,3061,5.5,42.5
+4-year,Public,2375,14.7,42.5
+4-year,Public,1844,12.4,42.4
+4-year,Public,22968,21.6,42.4
+4-year,Public,2646,7.9,42.4
+4-year,Private not-for-profit,1705,22.4,42.4
+4-year,Private not-for-profit,800,30,42.4
+4-year,Private not-for-profit,922,18.6,42.4
+2-year,Public,8839,16.9,42.3
+2-year,Public,3599,23.4,42.3
+2-year,Private for-profit,415,36.8,42.3
+2-year,Private for-profit,387,24.7,42.3
+2-year,Public,12274,16.3,42.3
+4-year,Private not-for-profit,1806,21.9,42.3
+4-year,Private not-for-profit,1656,25.1,42.3
+4-year,Private not-for-profit,1416,20,42.3
+2-year,Public,2698,18.5,42.3
+4-year,Private not-for-profit,1195,37,42.3
+4-year,Public,3621,6.8,42.3
+4-year,Public,2221,11.6,42.3
+4-year,Public,15462,23.4,42.2
+2-year,Private for-profit,258,50.3,42.2
+4-year,Private not-for-profit,947,26,42.2
+4-year,Private not-for-profit,2096,20.1,42.2
+4-year,Private not-for-profit,1829,31.2,42.1
+4-year,Private not-for-profit,1795,23.6,42.1
+2-year,Public,3652,19.3,42.1
+4-year,Private not-for-profit,1728,21,42.1
+2-year,Private for-profit,471,39.7,42.1
+4-year,Private for-profit,563,36.3,42.1
+2-year,Public,2958,20.2,42.1
+2-year,Public,4603,16.9,42
+4-year,Private not-for-profit,1989,11.5,42
+4-year,Private not-for-profit,4117,35.6,42
+4-year,Private not-for-profit,2894,25.2,42
+2-year,Private not-for-profit,103,36.3,42
+2-year,Private for-profit,1119,55.3,41.9
+4-year,Private not-for-profit,2005,24,41.9
+2-year,Private for-profit,404,26.3,41.9
+4-year,Private not-for-profit,2702,19.1,41.9
+2-year,Public,643,26.9,41.9
+4-year,Public,1059,12.9,41.9
+4-year,Public,1155,17,41.9
+4-year,Public,1230,14.2,41.9
+4-year,Public,2263,10.3,41.9
+4-year,Public,44201,23.3,41.9
+4-year,Public,1091,2.5,41.8
+4-year,Public,2330,10.5,41.8
+4-year,Public,2012,10.8,41.8
+4-year,Public,2596,5.2,41.8
+4-year,Public,23504,25.5,41.8
+4-year,Public,2042,8.4,41.8
+2-year,Private for-profit,183,35.5,41.8
+4-year,Private not-for-profit,1830,19.9,41.8
+4-year,Private not-for-profit,2479,20.1,41.7
+2-year,Public,14691,12.5,41.7
+4-year,Private not-for-profit,135,20.8,41.7
+2-year,Private for-profit,311,33.2,41.7
+4-year,Private for-profit,2802,21.2,41.7
+4-year,Private not-for-profit,2206,22,41.7
+2-year,Private for-profit,140,32.5,41.7
+4-year,Public,4255,14.9,41.6
+2-year,Public,19176,14.8,41.6
+2-year,Private for-profit,105,24.8,41.6
+2-year,Private for-profit,87,24.6,41.6
+2-year,Private for-profit,69,33.8,41.6
+2-year,Private for-profit,76,41.1,41.6
+4-year,Private for-profit,1045,31.5,41.6
+4-year,Private for-profit,694,36,41.6
+2-year,Private for-profit,123,48.8,41.5
+2-year,Private for-profit,58,41.6,41.5
+2-year,Public,15450,14.8,41.5
+2-year,Private for-profit,790,31.4,41.5
+4-year,Private not-for-profit,2112,24.9,41.5
+2-year,Public,2431,21.3,41.5
+4-year,Private not-for-profit,140,7.6,41.5
+2-year,Public,2923,10.8,41.5
+4-year,Private not-for-profit,3764,11.1,41.4
+4-year,Public,16153,18,41.4
+2-year,Private for-profit,302,28.4,41.4
+2-year,Private for-profit,240,41.3,41.4
+4-year,Private not-for-profit,1241,52.7,41.4
+4-year,Private not-for-profit,1584,18,41.4
+4-year,Private not-for-profit,805,31.4,41.4
+2-year,Private for-profit,173,30.8,41.3
+4-year,Private not-for-profit,2385,21.8,41.3
+2-year,Public,1759,27.4,41.3
+4-year,Private not-for-profit,463,17.9,41.3
+4-year,Private not-for-profit,1169,22.9,41.3
+4-year,Private not-for-profit,1959,19.6,41.3
+4-year,Private not-for-profit,2116,20.7,41.3
+4-year,Public,12796,18.5,41.3
+4-year,Public,1096,16.6,41.2
+4-year,Private not-for-profit,4620,20.4,41.2
+4-year,Private for-profit,472,34.8,41.2
+4-year,Public,12138,14.9,41.2
+4-year,Private not-for-profit,965,13.9,41.2
+4-year,Private not-for-profit,1214,32.7,41.2
+4-year,Private not-for-profit,1743,33.1,41.2
+4-year,Public,5358,16.3,41.2
+2-year,Public,2458,23.2,41.1
+4-year,Public,15218,19.4,41.1
+2-year,Public,2397,14.7,41.1
+4-year,Public,3757,19.8,41.1
+2-year,Public,1832,17.6,41.1
+2-year,Public,2971,18.5,41.1
+4-year,Private not-for-profit,197,23.3,41.1
+4-year,Public,2075,15.8,41.1
+2-year,Public,2343,21.1,41.1
+4-year,Private for-profit,817,37.5,41.1
+4-year,Public,7418,22.3,41
+2-year,Public,4909,22.5,41
+2-year,Public,2347,20.1,41
+4-year,Public,2077,19.1,41
+4-year,Private not-for-profit,1962,18.4,41
+4-year,Public,1375,22.2,41
+4-year,Public,20660,20.4,41
+4-year,Public,6996,16.1,41
+4-year,Private not-for-profit,2019,18,41
+2-year,Public,13491,14.7,41
+4-year,Private not-for-profit,1964,29.5,40.9
+4-year,Public,20985,21.3,40.9
+4-year,Public,3618,22,40.9
+4-year,Private not-for-profit,2884,17,40.9
+2-year,Private for-profit,200,32.3,40.9
+4-year,Public,4473,15.9,40.9
+2-year,Public,7193,16.6,40.8
+4-year,Private not-for-profit,633,26,40.8
+4-year,Public,918,20.1,40.8
+2-year,Public,2020,19.8,40.8
+4-year,Public,3498,19.7,40.8
+4-year,Private not-for-profit,804,33.2,40.8
+4-year,Public,4162,17.8,40.8
+2-year,Public,18640,18.5,40.8
+2-year,Private for-profit,1094,71.9,40.8
+4-year,Private not-for-profit,3428,21.1,40.7
+2-year,Public,1690,13.7,40.7
+4-year,Private for-profit,1348,19.5,40.7
+2-year,Public,1880,16.3,40.7
+2-year,Public,6760,13.9,40.7
+2-year,Public,12111,14.9,40.6
+2-year,Public,7368,20.5,40.6
+2-year,Public,1069,16.9,40.6
+2-year,Private for-profit,925,40.7,40.6
+4-year,Private not-for-profit,1388,22.1,40.6
+4-year,Public,3754,21.4,40.6
+4-year,Private not-for-profit,179,11.4,40.6
+4-year,Private not-for-profit,2384,24.8,40.5
+4-year,Private for-profit,605,33.6,40.5
+2-year,Public,11002,20.3,40.5
+4-year,Private not-for-profit,2126,19.9,40.5
+4-year,Private not-for-profit,1671,18.5,40.5
+2-year,Public,5617,16.4,40.5
+4-year,Private not-for-profit,741,37.8,40.5
+4-year,Private not-for-profit,70,59.7,40.5
+2-year,Public,9393,16.4,40.4
+4-year,Private not-for-profit,438,26.2,40.4
+4-year,Private not-for-profit,484,28.6,40.4
+4-year,Public,4366,22.4,40.4
+4-year,Private not-for-profit,139,20.3,40.4
+4-year,Public,23157,19.6,40.3
+4-year,Public,20797,21.4,40.3
+4-year,Private not-for-profit,413,19.5,40.3
+4-year,Private not-for-profit,1785,22.8,40.3
+2-year,Public,32411,16.1,40.3
+4-year,Public,22927,23.9,40.3
+4-year,Private not-for-profit,3494,21.9,40.2
+4-year,Private not-for-profit,1395,22.8,40.2
+2-year,Public,5530,19.7,40.2
+4-year,Private for-profit,1109,36.4,40.2
+4-year,Public,5500,17.4,40.2
+2-year,Public,2038,18.8,40.2
+2-year,Public,2443,17.1,40.2
+2-year,Public,2183,22.1,40.1
+4-year,Private not-for-profit,503,25.6,40.1
+4-year,Private not-for-profit,936,24.4,40.1
+2-year,Private for-profit,227,43.2,40.1
+4-year,Private not-for-profit,2119,21.8,40.1
+4-year,Public,5263,20.5,40
+4-year,Private not-for-profit,270,21,40
+4-year,Private not-for-profit,2349,21.9,40
+2-year,Public,18229,16.5,39.9
+4-year,Private not-for-profit,2161,23.2,39.9
+4-year,Private not-for-profit,2482,22.4,39.9
+4-year,Private not-for-profit,2371,21.5,39.9
+2-year,Private for-profit,189,46.6,39.9
+4-year,Private for-profit,462,19.8,39.9
+4-year,Private for-profit,2494,22.4,39.9
+4-year,Private for-profit,1544,22,39.9
+4-year,Private not-for-profit,624,21.6,39.9
+2-year,Public,2335,22.9,39.8
+4-year,Private not-for-profit,2453,20,39.8
+2-year,Private not-for-profit,159,42.7,39.8
+4-year,Public,9416,18.8,39.8
+2-year,Private for-profit,439,39.9,39.8
+4-year,Private not-for-profit,1328,23.8,39.8
+4-year,Private not-for-profit,3532,22.9,39.8
+2-year,Public,9880,12.5,39.8
+2-year,Private for-profit,89,52.4,39.7
+2-year,Public,3686,17.8,39.7
+4-year,Private not-for-profit,1337,22.2,39.7
+4-year,Public,6450,21.9,39.7
+2-year,Private for-profit,142,29.8,39.7
+4-year,Private not-for-profit,2100,23.3,39.7
+4-year,Private not-for-profit,5917,23.2,39.7
+4-year,Private not-for-profit,1286,30.1,39.6
+4-year,Private for-profit,1277,23.6,39.6
+4-year,Private not-for-profit,973,24.7,39.6
+4-year,Private not-for-profit,1517,25.8,39.6
+4-year,Public,1179,12.6,39.6
+2-year,Private for-profit,718,27.8,39.6
+4-year,Public,5199,20.5,39.6
+2-year,Private for-profit,107,48.4,39.6
+4-year,Private not-for-profit,122,20.5,39.5
+2-year,Private for-profit,163,27,39.5
+2-year,Public,13198,15,39.5
+4-year,Private not-for-profit,1807,20.2,39.5
+4-year,Private not-for-profit,2396,21.8,39.5
+2-year,Private for-profit,274,31.7,39.4
+4-year,Private not-for-profit,16616,18.1,39.4
+2-year,Private for-profit,122,42.2,39.4
+2-year,Private for-profit,600,35.5,39.4
+4-year,Private not-for-profit,5970,20.6,39.4
+4-year,Public,6186,20.7,39.4
+4-year,Private not-for-profit,2541,27.9,39.4
+4-year,Public,5864,18.1,39.4
+4-year,Private not-for-profit,1844,22.4,39.3
+2-year,Private for-profit,209,33.3,39.3
+2-year,Private for-profit,216,27.2,39.3
+4-year,Private not-for-profit,2297,22.1,39.3
+4-year,Private not-for-profit,3111,18.2,39.3
+4-year,Private not-for-profit,1541,23.9,39.3
+4-year,Private not-for-profit,2524,22.9,39.3
+4-year,Private not-for-profit,2062,32.4,39.2
+2-year,Private not-for-profit,1627,27.9,39.2
+2-year,Public,20780,15.7,39.2
+4-year,Private not-for-profit,1187,24.2,39.2
+2-year,Private not-for-profit,206,35.6,39.2
+4-year,Private not-for-profit,2182,25.3,39.2
+2-year,Private for-profit,86,21.3,39.2
+2-year,Private for-profit,557,23.5,39.2
+4-year,Private not-for-profit,2560,25.4,39.2
+4-year,Public,12668,18.4,39.1
+2-year,Private not-for-profit,427,36.4,39.1
+4-year,Private not-for-profit,1625,21.6,39.1
+4-year,Private not-for-profit,1574,17.3,39.1
+4-year,Private not-for-profit,2144,21.6,39.1
+4-year,Public,8815,20.3,39.1
+4-year,Private not-for-profit,1363,22.1,39.1
+4-year,Private not-for-profit,4409,22.1,39.1
+2-year,Private not-for-profit,1454,19.8,39.1
+4-year,Private not-for-profit,2486,22.9,39
+4-year,Private not-for-profit,1313,28.9,39
+2-year,Private for-profit,382,40.2,39
+4-year,Private not-for-profit,1766,23.1,39
+2-year,Public,7128,18,39
+2-year,Private for-profit,976,36.3,39
+4-year,Private not-for-profit,4931,22.1,39
+2-year,Private for-profit,568,56.9,39
+2-year,Private for-profit,273,46.3,39
+4-year,Public,1624,18.7,39
+4-year,Public,4855,19.1,39
+2-year,Public,6411,19.2,39
+4-year,Private not-for-profit,1307,19.4,39
+2-year,Private not-for-profit,858,24.2,39
+4-year,Public,2717,20.9,39
+4-year,Private not-for-profit,2148,21.1,38.9
+2-year,Private for-profit,385,34.4,38.9
+4-year,Private not-for-profit,2680,22.9,38.9
+4-year,Private not-for-profit,2772,21.7,38.9
+2-year,Private not-for-profit,96,25.8,38.9
+4-year,Public,7388,21.1,38.9
+4-year,Private not-for-profit,2417,24.1,38.8
+2-year,Public,13122,15,38.8
+4-year,Private not-for-profit,437,24.6,38.8
+4-year,Private not-for-profit,1553,23.4,38.8
+4-year,Private not-for-profit,1781,24.6,38.8
+4-year,Private not-for-profit,2448,21.3,38.8
+4-year,Private not-for-profit,2573,20.6,38.8
+2-year,Private for-profit,856,61.5,38.8
+2-year,Public,10666,18.6,38.8
+2-year,Private not-for-profit,548,1.8,38.8
+2-year,Private not-for-profit,743,30.5,38.7
+4-year,Public,3943,20.2,38.7
+4-year,Public,680,16.7,38.7
+4-year,Public,568,24,38.7
+4-year,Public,606,12.5,38.7
+4-year,Public,1178,16.1,38.7
+4-year,Public,889,8.4,38.7
+4-year,Public,3861,10.6,38.7
+4-year,Public,703,11,38.7
+4-year,Public,2712,11.4,38.7
+4-year,Public,3577,21,38.6
+4-year,Public,1492,12.6,38.6
+4-year,Public,704,21.6,38.6
+4-year,Public,846,24.1,38.6
+4-year,Public,951,8.8,38.6
+4-year,Public,40085,27.2,38.6
+4-year,Public,623,7.8,38.6
+4-year,Public,1022,15.5,38.6
+4-year,Public,3690,14.1,38.5
+4-year,Public,837,9.6,38.5
+4-year,Public,1141,13.9,38.5
+2-year,Private for-profit,65,30.1,38.5
+4-year,Private not-for-profit,1759,30.7,38.5
+2-year,Private for-profit,346,34.6,38.5
+2-year,Private for-profit,551,63,38.5
+4-year,Private not-for-profit,198,24.9,38.5
+4-year,Private not-for-profit,223,19.7,38.5
+4-year,Private not-for-profit,11525,25.2,38.5
+4-year,Private not-for-profit,2811,22,38.4
+4-year,Private not-for-profit,1890,21.6,38.4
+4-year,Private not-for-profit,844,34,38.4
+4-year,Private not-for-profit,1837,22.5,38.4
+2-year,Public,19063,12.2,38.4
+4-year,Public,1481,21.9,38.3
+4-year,Public,1677,15.7,38.3
+4-year,Public,2840,17.5,38.3
+4-year,Public,18615,23.4,38.3
+2-year,Public,367,15.1,38.3
+2-year,Private not-for-profit,354,26.6,38.2
+2-year,Private not-for-profit,232,19,38.2
+2-year,Private for-profit,1841,23.9,38.2
+2-year,Private for-profit,315,23.7,38.2
+4-year,Private not-for-profit,3226,22,38.2
+2-year,Public,4538,13,38.2
+4-year,Private for-profit,427,56.5,38.2
+2-year,Private for-profit,519,42.7,38.1
+4-year,Private not-for-profit,4496,19.2,38.1
+2-year,Private not-for-profit,684,15.3,38.1
+4-year,Private not-for-profit,531,21.3,38.1
+4-year,Private not-for-profit,1694,19.2,38.1
+4-year,Private not-for-profit,5374,24.3,38.1
+4-year,Private not-for-profit,1596,21.6,38.1
+4-year,Private not-for-profit,3942,21.7,38
+4-year,Private not-for-profit,1958,18.1,38
+2-year,Private for-profit,285,29.4,38
+4-year,Public,6550,20.7,38
+4-year,Public,7595,21.4,38
+4-year,Private not-for-profit,84,16.8,38
+2-year,Private for-profit,665,29.4,38
+4-year,Private not-for-profit,2187,19.6,38
+4-year,Private not-for-profit,1534,24,38
+2-year,Public,883,31,38
+4-year,Private not-for-profit,124,15.7,37.9
+4-year,Public,28068,22.2,37.9
+4-year,Private not-for-profit,1100,15.4,37.9
+2-year,Private for-profit,851,41.5,37.9
+2-year,Private for-profit,74,39.6,37.9
+2-year,Private for-profit,251,35.4,37.9
+2-year,Private for-profit,171,42,37.9
+2-year,Private for-profit,184,43.5,37.9
+4-year,Private not-for-profit,1596,24.8,37.9
+4-year,Private not-for-profit,964,16.4,37.8
+2-year,Private not-for-profit,268,20.3,37.8
+4-year,Private not-for-profit,7042,23.7,37.8
+4-year,Private not-for-profit,1328,23.1,37.8
+4-year,Private not-for-profit,1598,22.4,37.8
+4-year,Public,13711,21.4,37.8
+2-year,Private for-profit,438,32.4,37.8
+4-year,Private not-for-profit,1313,18.8,37.8
+2-year,Public,6104,15.3,37.8
+4-year,Private not-for-profit,3424,21.5,37.7
+4-year,Private not-for-profit,2388,20.2,37.7
+4-year,Private not-for-profit,571,16.5,37.7
+4-year,Private not-for-profit,5010,19.3,37.7
+2-year,Private for-profit,2027,35.3,37.7
+2-year,Private for-profit,122,30.5,37.7
+4-year,Private not-for-profit,6455,25.3,37.6
+4-year,Private not-for-profit,3287,24.7,37.6
+4-year,Private not-for-profit,9401,26.7,37.6
+4-year,Private not-for-profit,2860,35.1,37.6
+4-year,Private not-for-profit,4135,22.8,37.6
+4-year,Public,7505,18.9,37.6
+2-year,Public,17699,16,37.6
+4-year,Public,13354,20.6,37.6
+4-year,Private not-for-profit,2005,23.4,37.6
+4-year,Private not-for-profit,4411,22.2,37.6
+4-year,Private not-for-profit,2026,21.6,37.5
+4-year,Private not-for-profit,396,21,37.5
+2-year,Public,2583,15.1,37.5
+4-year,Private not-for-profit,651,9.6,37.5
+4-year,Private not-for-profit,2652,13.6,37.5
+4-year,Private not-for-profit,2912,16,37.5
+2-year,Public,2427,13.1,37.5
+4-year,Private not-for-profit,2512,11.5,37.5
+4-year,Private for-profit,2913,22.8,37.4
+4-year,Private not-for-profit,1333,32,37.4
+4-year,Public,10488,21,37.4
+2-year,Public,1153,17.3,37.4
+4-year,Public,2735,17.5,37.4
+4-year,Private not-for-profit,1834,17,37.4
+4-year,Public,16931,21.6,37.4
+4-year,Private not-for-profit,185,23,37.3
+4-year,Private not-for-profit,1144,22.2,37.3
+4-year,Private not-for-profit,584,24.5,37.3
+4-year,Private not-for-profit,1010,21.2,37.3
+4-year,Private not-for-profit,746,21.4,37.3
+2-year,Public,1838,8,37.3
+4-year,Private not-for-profit,605,20.1,37.3
+2-year,Public,5991,13.1,37.3
+2-year,Private for-profit,135,25.2,37.3
+4-year,Public,3714,16.5,37.3
+4-year,Private not-for-profit,2797,22.1,37.3
+2-year,Public,13448,13.7,37.3
+2-year,Public,7660,16.8,37.2
+4-year,Public,2792,15.9,37.2
+4-year,Private not-for-profit,3241,27.5,37.2
+2-year,Public,11634,12.8,37.2
+4-year,Private not-for-profit,824,11.8,37.2
+4-year,Private not-for-profit,1039,17.7,37.2
+4-year,Private not-for-profit,2257,18,37.1
+2-year,Public,2718,13.9,37.1
+2-year,Public,6171,15,37.1
+4-year,Private not-for-profit,1123,21.8,37.1
+4-year,Public,3175,18.6,37.1
+4-year,Public,1724,16,37.1
+4-year,Public,24180,20.4,37
+2-year,Public,1811,11.6,37
+2-year,Public,1021,19.8,37
+2-year,Public,924,11.3,37
+2-year,Public,484,17,37
+4-year,Public,8867,17.2,36.9
+4-year,Public,2937,16,36.9
+4-year,Public,5308,22.1,36.9
+2-year,Private not-for-profit,818,23.3,36.9
+2-year,Public,5864,12.2,36.9
+2-year,Public,4456,11,36.9
+2-year,Public,6553,14.3,36.9
+2-year,Public,17489,11.6,36.9
+4-year,Private not-for-profit,536,16,36.9
+2-year,Public,729,19.3,36.9
+4-year,Public,5048,20.1,36.8
+4-year,Private not-for-profit,1615,21.3,36.8
+2-year,Public,5030,14.6,36.8
+4-year,Private not-for-profit,1697,19.5,36.8
+4-year,Public,4002,17.2,36.8
+2-year,Private not-for-profit,253,15.5,36.8
+4-year,Public,2876,16.5,36.7
+4-year,Private not-for-profit,810,23.2,36.7
+2-year,Public,1559,29,36.7
+2-year,Public,1203,37.8,36.7
+4-year,Private not-for-profit,1068,22.7,36.7
+4-year,Private for-profit,1926,16.1,36.7
+4-year,Private for-profit,659,17.2,36.7
+4-year,Public,2826,15.3,36.7
+4-year,Public,1517,16.6,36.6
+4-year,Private not-for-profit,791,24.4,36.6
+4-year,Public,2328,13.9,36.6
+4-year,Public,10969,19.1,36.6
+4-year,Private not-for-profit,577,17.4,36.6
+4-year,Private not-for-profit,1100,25.2,36.6
+2-year,Public,194,20.7,36.6
+2-year,Public,2467,32.1,36.5
+4-year,Public,7633,21.6,36.5
+2-year,Public,1030,31.9,36.5
+4-year,Private not-for-profit,141,14.3,36.5
+4-year,Private not-for-profit,505,42.4,36.5
+4-year,Public,9550,19.7,36.5
+4-year,Private not-for-profit,1101,22.8,36.4
+4-year,Private not-for-profit,5506,21.7,36.4
+4-year,Private not-for-profit,5124,15,36.4
+4-year,Private not-for-profit,1573,24.7,36.4
+4-year,Private not-for-profit,1713,19.5,36.4
+2-year,Public,9910,15.5,36.4
+4-year,Private not-for-profit,1168,18.4,36.4
+2-year,Public,3790,19.5,36.4
+2-year,Public,5225,20.9,36.4
+2-year,Private for-profit,1313,15.3,36.4
+4-year,Private not-for-profit,1269,22,36.3
+4-year,Private not-for-profit,2890,18.6,36.3
+4-year,Private for-profit,141,75.5,36.3
+2-year,Public,3258,14.4,36.3
+4-year,Public,11820,19.5,36.3
+2-year,Private for-profit,345,38.5,36.3
+4-year,Private not-for-profit,611,15.3,36.2
+4-year,Private not-for-profit,338,19.4,36.2
+4-year,Private not-for-profit,1385,19.4,36.2
+4-year,Private not-for-profit,364,19,36.2
+2-year,Public,4587,17.2,36.2
+2-year,Private not-for-profit,122,32.9,36.2
+4-year,Private not-for-profit,830,19.6,36.2
+4-year,Private not-for-profit,2191,30.5,36.1
+4-year,Private for-profit,710,16.2,36.1
+4-year,Private not-for-profit,1554,14.8,36.1
+4-year,Private not-for-profit,1023,11,36
+4-year,Private not-for-profit,4550,19.3,36
+4-year,Private not-for-profit,1713,26.3,36
+4-year,Private not-for-profit,1144,16.3,36
+4-year,Private not-for-profit,1168,18.8,36
+4-year,Private not-for-profit,368,20,36
+4-year,Public,17223,18.8,36
+4-year,Private for-profit,2456,13.2,36
+4-year,Public,21162,19.5,35.9
+4-year,Private not-for-profit,973,23.6,35.9
+2-year,Public,4900,18.1,35.9
+2-year,Private for-profit,1856,61.9,35.9
+2-year,Public,10007,13.4,35.8
+4-year,Private not-for-profit,180,21.8,35.8
+4-year,Private not-for-profit,2027,19.7,35.8
+2-year,Public,6214,19.7,35.8
+2-year,Public,10817,10.3,35.8
+4-year,Private not-for-profit,1620,20.8,35.8
+2-year,Public,10704,17.9,35.8
+4-year,Private not-for-profit,2825,21,35.7
+4-year,Private not-for-profit,1068,23.6,35.7
+4-year,Public,10297,16.7,35.7
+4-year,Public,21182,22.4,35.7
+4-year,Public,7025,16.6,35.7
+4-year,Private for-profit,180,51.8,35.7
+4-year,Public,6816,17.9,35.7
+4-year,Public,10052,19.5,35.7
+4-year,Private not-for-profit,743,14,35.7
+4-year,Private not-for-profit,1492,28.2,35.7
+2-year,Public,5893,18.4,35.7
+4-year,Private not-for-profit,1844,21.7,35.7
+4-year,Private not-for-profit,2826,23.8,35.7
+4-year,Private not-for-profit,6835,25.1,35.6
+2-year,Public,8153,16.9,35.6
+2-year,Public,6265,23.5,35.6
+2-year,Private for-profit,212,75,35.6
+2-year,Private not-for-profit,219,61.4,35.6
+4-year,Private not-for-profit,3727,21.2,35.6
+2-year,Public,5118,19.5,35.6
+2-year,Public,10873,18.4,35.6
+2-year,Public,5490,19.1,35.6
+4-year,Public,5473,19.8,35.6
+4-year,Private not-for-profit,231,14.5,35.6
+4-year,Private for-profit,2338,18.5,35.6
+4-year,Private not-for-profit,1207,24.2,35.6
+2-year,Public,41627,8.8,35.6
+4-year,Private not-for-profit,13292,20.6,35.5
+2-year,Public,3533,21.8,35.5
+2-year,Public,18561,8.2,35.5
+4-year,Private not-for-profit,904,14.8,35.5
+2-year,Private for-profit,196,32,35.5
+4-year,Public,4127,16.7,35.5
+2-year,Public,12319,12,35.5
+2-year,Public,6676,23.9,35.5
+2-year,Public,21647,22,35.5
+2-year,Public,3617,20.5,35.4
+2-year,Public,1214,16.2,35.4
+4-year,Private not-for-profit,1531,18.6,35.4
+2-year,Public,10335,14.2,35.4
+4-year,Public,9152,18.5,35.4
+2-year,Private for-profit,183,2.6,35.4
+4-year,Private not-for-profit,3435,26.1,35.4
+4-year,Private not-for-profit,316,19,35.4
+2-year,Private not-for-profit,114,34.1,35.4
+4-year,Private not-for-profit,1380,20.6,35.4
+2-year,Public,10502,24.6,35.3
+4-year,Private for-profit,1208,35.4,35.3
+4-year,Private not-for-profit,1196,19.4,35.3
+4-year,Public,1401,32.9,35.3
+4-year,Public,6969,26,35.3
+2-year,Public,14529,13,35.3
+2-year,Public,10771,18.6,35.3
+2-year,Public,30468,17.5,35.3
+2-year,Private for-profit,651,34.8,35.2
+2-year,Private for-profit,815,29.6,35.2
+4-year,Private for-profit,1408,18.8,35.2
+2-year,Public,1148,11.7,35.2
+2-year,Public,2131,21.3,35.2
+2-year,Public,5014,31,35.2
+4-year,Private not-for-profit,729,31.9,35.2
+4-year,Private not-for-profit,1772,21.7,35.2
+2-year,Public,5172,17.7,35.1
+2-year,Public,4495,12.4,35.1
+4-year,Private not-for-profit,2171,18.3,35.1
+2-year,Public,57978,11.7,35.1
+4-year,Public,13486,25,35.1
+4-year,Public,2889,32.3,35.1
+4-year,Public,31706,20.5,35.1
+2-year,Public,4130,21.1,35
+4-year,Private not-for-profit,1100,20.6,35
+4-year,Private not-for-profit,926,17.1,35
+4-year,Private not-for-profit,6491,19.7,35
+2-year,Private for-profit,196,18.5,35
+2-year,Private for-profit,195,27.8,35
+4-year,Private for-profit,612,31.8,35
+4-year,Private for-profit,609,43.9,35
+2-year,Private not-for-profit,524,11.1,35
+4-year,Private not-for-profit,609,18.9,35
+2-year,Private for-profit,153,40.1,34.9
+2-year,Public,5867,32.4,34.9
+4-year,Public,9382,16.6,34.9
+2-year,Public,2426,25.8,34.8
+2-year,Public,2721,24.4,34.8
+2-year,Public,8726,10.9,34.8
+4-year,Public,6585,16.6,34.8
+2-year,Public,5911,15.7,34.8
+4-year,Private not-for-profit,2305,29,34.8
+2-year,Private for-profit,867,62.9,34.8
+4-year,Private not-for-profit,1531,24,34.8
+2-year,Public,4188,16.8,34.8
+4-year,Private not-for-profit,3063,19.8,34.8
+2-year,Public,8555,14.7,34.7
+4-year,Private not-for-profit,1212,19.6,34.7
+4-year,Public,5233,14.6,34.7
+4-year,Public,5193,23.4,34.7
+4-year,Private for-profit,201,36.1,34.7
+2-year,Public,8797,15.6,34.7
+2-year,Public,10256,16.8,34.7
+2-year,Public,64072,11,34.7
+2-year,Public,11365,19.2,34.7
+4-year,Public,31243,24.4,34.6
+2-year,Public,3225,18.7,34.6
+4-year,Private not-for-profit,648,29.8,34.6
+2-year,Public,5059,15.7,34.6
+4-year,Private not-for-profit,1555,24.6,34.6
+4-year,Public,17230,18,34.6
+4-year,Public,11220,22.1,34.6
+2-year,Public,2699,29.4,34.6
+2-year,Public,5301,14.5,34.5
+4-year,Private not-for-profit,243,12.1,34.5
+4-year,Public,6731,15.3,34.5
+2-year,Public,1893,13.1,34.5
+4-year,Private not-for-profit,3965,23.7,34.5
+2-year,Public,19287,12.4,34.5
+2-year,Private for-profit,540,31.9,34.5
+4-year,Private not-for-profit,4089,25.4,34.5
+2-year,Public,10238,13.1,34.5
+4-year,Private not-for-profit,1572,24.5,34.4
+4-year,Public,16255,22.2,34.4
+2-year,Public,23004,10.1,34.4
+2-year,Public,28385,27.9,34.4
+4-year,Private not-for-profit,1065,20.9,34.4
+4-year,Private not-for-profit,2393,24,34.4
+2-year,Public,9559,18,34.4
+4-year,Private not-for-profit,6357,26,34.4
+2-year,Public,5410,16.5,34.4
+4-year,Private not-for-profit,1700,32.9,34.4
+4-year,Private not-for-profit,1535,22.1,34.4
+4-year,Public,11006,19.3,34.3
+4-year,Public,31005,21.7,34.3
+4-year,Private not-for-profit,791,20.9,34.3
+4-year,Private not-for-profit,172,17.8,34.3
+4-year,Public,2003,21.9,34.2
+4-year,Public,11348,24.3,34.2
+2-year,Public,50771,11.6,34.2
+2-year,Public,5506,15.7,34.2
+2-year,Public,3988,24.7,34.2
+2-year,Public,4233,18.5,34.2
+4-year,Public,9430,21.6,34.2
+4-year,Public,44072,24.2,34.2
+4-year,Public,25690,26.1,34.1
+4-year,Public,39979,25.2,34.1
+4-year,Public,13049,24.6,34.1
+4-year,Public,19696,20,34.1
+4-year,Public,5591,27.1,34.1
+4-year,Private not-for-profit,8640,22.2,34
+4-year,Private not-for-profit,971,13.6,34
+4-year,Private not-for-profit,1329,20.7,34
+4-year,Public,4246,21.2,34
+4-year,Public,24342,18.8,34
+2-year,Private for-profit,436,24.6,34
+4-year,Public,6288,12.6,34
+4-year,Public,27044,20.2,34
+4-year,Private not-for-profit,1724,21.7,33.9
+4-year,Public,9515,25.5,33.9
+4-year,Private not-for-profit,2161,23.9,33.9
+2-year,Public,5332,15.1,33.9
+2-year,Public,1281,26.4,33.9
+2-year,Public,11308,19.2,33.8
+2-year,Public,3084,23.6,33.8
+2-year,Public,4419,18,33.8
+4-year,Private not-for-profit,4515,39.2,33.8
+2-year,Public,5694,29.3,33.8
+4-year,Public,6906,22.5,33.8
+2-year,Public,2044,24,33.8
+2-year,Public,7386,14,33.8
+4-year,Private not-for-profit,1388,15.1,33.8
+4-year,Private not-for-profit,27765,22.1,33.7
+4-year,Private not-for-profit,2882,18.3,33.7
+4-year,Private for-profit,229,39.6,33.7
+4-year,Public,8350,25.3,33.7
+4-year,Private for-profit,290,40.5,33.7
+4-year,Private for-profit,471,38.4,33.7
+2-year,Private not-for-profit,2036,36.6,33.7
+4-year,Private for-profit,404,33.2,33.7
+4-year,Public,4605,24,33.7
+4-year,Public,7017,21.1,33.6
+4-year,Private not-for-profit,320,24.5,33.6
+4-year,Private not-for-profit,351,25,33.6
+4-year,Public,24385,22.3,33.6
+4-year,Public,30370,18.3,33.5
+2-year,Public,32003,17.5,33.5
+4-year,Public,24492,23,33.5
+4-year,Public,24498,24.4,33.5
+4-year,Private not-for-profit,2295,21.8,33.5
+4-year,Private not-for-profit,619,22.9,33.5
+4-year,Private not-for-profit,220,23.7,33.5
+4-year,Public,2068,21.1,33.5
+4-year,Private not-for-profit,2898,21.1,33.5
+2-year,Public,6200,17.7,33.5
+4-year,Private not-for-profit,209,39.3,33.5
+4-year,Private not-for-profit,590,23.9,33.5
+4-year,Public,1486,26.9,33.4
+4-year,Public,1415,18.7,33.4
+4-year,Private not-for-profit,260,24.8,33.4
+4-year,Private not-for-profit,2495,24.1,33.4
+4-year,Private for-profit,462,25.9,33.4
+4-year,Private not-for-profit,2456,15.4,33.4
+4-year,Private not-for-profit,1998,21.8,33.4
+4-year,Private not-for-profit,176,26.6,33.4
+4-year,Private not-for-profit,480,23.8,33.3
+4-year,Private not-for-profit,116,23.9,33.3
+4-year,Public,1543,43.2,33.3
+4-year,Public,10912,22.8,33.3
+2-year,Private for-profit,824,44,33.3
+4-year,Private not-for-profit,877,16.4,33.3
+2-year,Public,4437,26.4,33.3
+4-year,Private not-for-profit,837,27.6,33.3
+4-year,Private not-for-profit,1848,18.2,33.3
+4-year,Public,6271,25.1,33.3
+4-year,Private not-for-profit,2400,21.5,33.3
+2-year,Public,4730,25.1,33.3
+4-year,Public,5094,21.7,33.3
+4-year,Private for-profit,728,22.1,33.3
+4-year,Private for-profit,906,26.5,33.2
+4-year,Private not-for-profit,813,27.3,33.2
+2-year,Public,1312,23.5,33.2
+2-year,Public,4280,20.5,33.2
+4-year,Private for-profit,477,20.5,33.2
+4-year,Private not-for-profit,936,18.5,33.2
+4-year,Private not-for-profit,1184,28.7,33.2
+2-year,Public,857,22.5,33.2
+4-year,Private not-for-profit,1512,13.8,33.2
+4-year,Public,21990,24.1,33.2
+2-year,Public,7379,27.2,33.2
+4-year,Private not-for-profit,1070,21.1,33.1
+4-year,Private not-for-profit,3742,17,33.1
+4-year,Private not-for-profit,580,20.1,33.1
+2-year,Public,12454,14,33.1
+4-year,Public,18431,22.3,33.1
+2-year,Public,10103,15.7,33
+4-year,Private not-for-profit,47464,18.1,33
+4-year,Public,4497,20,33
+2-year,Public,7238,25.9,33
+4-year,Private not-for-profit,2178,20.7,33
+4-year,Private not-for-profit,1441,18.9,32.9
+4-year,Public,4383,24.1,32.9
+4-year,Private not-for-profit,2396,24.7,32.9
+2-year,Public,2924,17.5,32.9
+4-year,Private for-profit,1821,31.4,32.8
+2-year,Public,4808,17.8,32.8
+4-year,Public,6021,16.4,32.8
+2-year,Public,51803,19.5,32.8
+4-year,Public,19819,21.7,32.8
+2-year,Public,3163,26.9,32.8
+2-year,Public,1392,19.7,32.7
+2-year,Private for-profit,472,33.8,32.7
+2-year,Public,5630,20.2,32.7
+4-year,Public,8913,21.4,32.7
+4-year,Private not-for-profit,1315,20.3,32.7
+4-year,Private not-for-profit,665,17.9,32.7
+2-year,Public,3555,21.5,32.7
+2-year,Private for-profit,291,31.3,32.7
+2-year,Public,1428,18.7,32.6
+4-year,Private not-for-profit,408,28.6,32.6
+4-year,Private not-for-profit,3215,25.2,32.6
+4-year,Private not-for-profit,2029,19.1,32.6
+4-year,Private not-for-profit,2150,22.9,32.5
+4-year,Private not-for-profit,662,16.6,32.5
+2-year,Public,5784,20.8,32.5
+2-year,Public,2630,24.7,32.5
+4-year,Private for-profit,4943,24.3,32.5
+4-year,Private not-for-profit,703,20.5,32.5
+2-year,Public,11033,17.9,32.4
+2-year,Public,28999,14.5,32.4
+4-year,Public,2291,15.4,32.4
+2-year,Public,2484,27.9,32.4
+4-year,Private not-for-profit,378,19.9,32.3
+4-year,Public,24034,23.1,32.3
+2-year,Public,8654,17.8,32.3
+4-year,Public,23356,21.1,32.3
+4-year,Public,16087,23.8,32.3
+4-year,Public,1675,17.9,32.3
+4-year,Private not-for-profit,493,12.6,32.3
+4-year,Public,5073,15.8,32.3
+4-year,Private not-for-profit,1359,12.1,32.3
+4-year,Private not-for-profit,1459,19.9,32.3
+4-year,Private not-for-profit,1855,25.4,32.2
+2-year,Public,3468,27.8,32.2
+4-year,Private for-profit,1573,21.4,32.2
+4-year,Public,13820,19.5,32.2
+2-year,Public,2258,26.8,32.2
+2-year,Public,1991,25.4,32.2
+4-year,Public,10423,24,32.2
+4-year,Public,3453,20.7,32.2
+4-year,Private not-for-profit,1272,55.1,32.2
+2-year,Public,11462,18.2,32.2
+2-year,Public,3720,13.1,32.2
+4-year,Public,6480,22.9,32.2
+4-year,Private not-for-profit,775,19.7,32.2
+4-year,Public,11678,21.1,32.1
+2-year,Public,9070,16.6,32.1
+2-year,Public,7154,23,32.1
+4-year,Public,4087,27.4,32.1
+2-year,Public,6203,19.3,32.1
+4-year,Private not-for-profit,4896,21.3,32.1
+2-year,Public,1958,22.6,32.1
+2-year,Public,7801,19.3,32.1
+4-year,Private not-for-profit,876,21,32.1
+2-year,Public,6612,18.4,32.1
+2-year,Private for-profit,49,77.5,32
+4-year,Private for-profit,444,33.4,32
+4-year,Private for-profit,297,41.3,32
+2-year,Public,3704,10.5,32
+4-year,Public,3819,25.9,32
+2-year,Public,3152,22.5,31.9
+4-year,Private not-for-profit,194,21.4,31.9
+4-year,Public,6118,18.6,31.9
+4-year,Private not-for-profit,1438,21.5,31.9
+4-year,Public,7329,24.8,31.9
+4-year,Private not-for-profit,3142,22.8,31.9
+4-year,Public,2405,21.2,31.9
+4-year,Private not-for-profit,2544,24.3,31.8
+2-year,Public,3338,30.7,31.8
+4-year,Private not-for-profit,1428,24.5,31.8
+4-year,Public,4951,16.4,31.8
+4-year,Public,7110,18.8,31.8
+4-year,Private not-for-profit,3366,24.4,31.8
+4-year,Private not-for-profit,4608,26.5,31.8
+2-year,Public,5937,19.7,31.8
+2-year,Public,4790,20.5,31.8
+2-year,Public,4938,28,31.8
+2-year,Public,6731,21.7,31.8
+2-year,Public,8855,17.4,31.7
+2-year,Public,7146,19.5,31.7
+2-year,Public,5109,27.3,31.6
+4-year,Private not-for-profit,1686,19.2,31.6
+4-year,Public,23070,25,31.6
+4-year,Public,29756,26.3,31.6
+2-year,Public,3619,27.5,31.6
+2-year,Private for-profit,324,46.6,31.6
+4-year,Public,14026,23.7,31.6
+2-year,Public,4427,29.1,31.6
+4-year,Private not-for-profit,1541,25.6,31.6
+4-year,Private not-for-profit,2358,20.1,31.6
+2-year,Public,4105,21.4,31.6
+4-year,Private not-for-profit,1052,16.6,31.6
+4-year,Private not-for-profit,278,25.3,31.5
+4-year,Private not-for-profit,693,17.1,31.5
+4-year,Public,1747,19.1,31.5
+4-year,Private not-for-profit,1386,22.9,31.5
+4-year,Public,2505,16,31.5
+4-year,Private not-for-profit,874,14.6,31.5
+4-year,Public,3966,19.3,31.5
+4-year,Public,1850,13.2,31.5
+2-year,Private for-profit,685,19.5,31.5
+4-year,Public,9756,17.4,31.5
+2-year,Private for-profit,153,20.7,31.5
+2-year,Private for-profit,232,55.3,31.5
+4-year,Private not-for-profit,410,23.8,31.4
+4-year,Public,3461,25.1,31.4
+4-year,Public,1660,13.4,31.4
+4-year,Private for-profit,441,11.9,31.4
+4-year,Public,3990,18.1,31.4
+2-year,Public,2002,14.9,31.4
+4-year,Public,2622,17.8,31.4
+4-year,Public,2660,17.8,31.3
+4-year,Public,1222,14.6,31.3
+4-year,Private not-for-profit,1367,21,31.3
+2-year,Private for-profit,147,128.7,31.3
+2-year,Private for-profit,213,38.3,31.3
+2-year,Private for-profit,291,29.7,31.3
+2-year,Public,2086,19.9,31.3
+4-year,Public,22757,17.9,31.3
+4-year,Private not-for-profit,1180,20.5,31.2
+4-year,Private not-for-profit,1862,22.5,31.2
+4-year,Public,15340,18.8,31.2
+4-year,Private not-for-profit,286,36.6,31.2
+4-year,Private not-for-profit,1306,24.1,31.1
+2-year,Public,2637,26.6,31.1
+4-year,Private not-for-profit,2693,33.4,31.1
+4-year,Private not-for-profit,3119,18,31
+4-year,Private not-for-profit,2902,17.7,31
+4-year,Private not-for-profit,4363,20.9,31
+4-year,Private not-for-profit,1998,22.1,31
+2-year,Public,10511,25.6,31
+2-year,Public,8268,21.7,31
+4-year,Private for-profit,448,45.9,31
+4-year,Private not-for-profit,2972,27.7,30.9
+2-year,Public,2930,36.5,30.9
+4-year,Private not-for-profit,1553,21.8,30.9
+4-year,Private not-for-profit,946,19,30.9
+4-year,Private not-for-profit,1688,23.9,30.9
+4-year,Private not-for-profit,8365,20.5,30.9
+2-year,Public,2905,24,30.9
+2-year,Public,17961,14.4,30.8
+4-year,Private not-for-profit,667,18.6,30.8
+4-year,Private not-for-profit,2459,21.9,30.8
+2-year,Public,6613,31.9,30.8
+4-year,Private not-for-profit,926,25.2,30.8
+2-year,Public,1271,29.4,30.8
+2-year,Public,4384,28.7,30.8
+2-year,Public,10441,26,30.7
+4-year,Private not-for-profit,261,25.5,30.7
+4-year,Private not-for-profit,552,19.9,30.7
+4-year,Private not-for-profit,904,20.5,30.7
+4-year,Private not-for-profit,2160,21,30.7
+4-year,Private not-for-profit,501,24.8,30.7
+2-year,Public,4144,27.7,30.7
+4-year,Private for-profit,1051,10.6,30.7
+2-year,Public,13947,16.4,30.7
+4-year,Private not-for-profit,2079,24.2,30.6
+2-year,Public,5617,27.3,30.6
+2-year,Public,8799,20.5,30.6
+2-year,Public,4572,26.5,30.6
+4-year,Public,10864,19.4,30.6
+2-year,Public,3418,37,30.6
+4-year,Public,10404,21.2,30.6
+4-year,Public,6445,23,30.6
+4-year,Public,9702,18.7,30.6
+4-year,Private not-for-profit,1070,16.6,30.5
+4-year,Public,12622,19.4,30.5
+4-year,Public,4450,17.8,30.5
+4-year,Private for-profit,2452,26.8,30.5
+4-year,Public,8208,21,30.4
+4-year,Public,2527,20.5,30.4
+4-year,Public,30728,23.6,30.4
+4-year,Public,22648,18.3,30.4
+4-year,Public,7862,17.1,30.4
+4-year,Public,5782,21.3,30.4
+4-year,Public,9313,20.1,30.3
+2-year,Public,4082,25.4,30.3
+2-year,Public,2182,14.7,30.3
+2-year,Public,1788,11.8,30.3
+2-year,Public,4780,16,30.3
+2-year,Public,1880,19.6,30.3
+2-year,Public,4437,21.2,30.3
+2-year,Public,3620,17.7,30.2
+2-year,Private for-profit,1462,58.1,30.2
+4-year,Public,10117,21.3,30.2
+4-year,Private not-for-profit,7274,22.5,30.2
+4-year,Public,30446,23.4,30.2
+4-year,Private not-for-profit,157,137.6,30.1
+4-year,Private for-profit,557,40.4,30.1
+4-year,Private for-profit,218,43,30.1
+4-year,Private not-for-profit,110,19.5,30.1
+4-year,Private not-for-profit,633,28.2,30.1
+2-year,Private for-profit,163,34.9,30
+2-year,Public,21123,10.5,30
+2-year,Public,4431,15,30
+2-year,Private for-profit,97,43.9,30
+4-year,Private for-profit,1344,36.7,30
+2-year,Private for-profit,71,35,30
+2-year,Private for-profit,142,58.4,30
+2-year,Public,2358,18.5,29.9
+4-year,Private not-for-profit,339,17.9,29.9
+4-year,Private not-for-profit,230,43.6,29.9
+4-year,Private not-for-profit,2407,14,29.9
+4-year,Private for-profit,360,15.4,29.9
+2-year,Private for-profit,236,40,29.9
+2-year,Private for-profit,242,74.7,29.9
+2-year,Private for-profit,323,24.4,29.9
+2-year,Private for-profit,681,26,29.8
+2-year,Public,8427,13.4,29.8
+2-year,Public,4563,19.8,29.8
+2-year,Private for-profit,521,58.3,29.8
+4-year,Private for-profit,807,30.1,29.8
+2-year,Public,3235,20.5,29.7
+4-year,Private not-for-profit,494,21.5,29.7
+4-year,Private for-profit,633,10.5,29.7
+2-year,Public,27972,10.4,29.7
+2-year,Public,4286,23.5,29.7
+2-year,Public,1180,22.8,29.6
+2-year,Private for-profit,169,20.7,29.6
+4-year,Private for-profit,397,21.7,29.6
+4-year,Private for-profit,10803,33.8,29.6
+2-year,Private for-profit,224,44.6,29.6
+2-year,Private for-profit,212,31.7,29.6
+2-year,Private for-profit,513,35.7,29.6
+2-year,Private for-profit,335,26.8,29.6
+4-year,Private for-profit,295,32.5,29.5
+2-year,Public,4805,15,29.5
+4-year,Private for-profit,1167,14.5,29.5
+4-year,Private for-profit,4140,15.3,29.5
+2-year,Private for-profit,112,40.8,29.5
+2-year,Public,303,17.3,29.5
+2-year,Private for-profit,1146,22.9,29.5
+4-year,Private for-profit,608,29.9,29.4
+4-year,Private for-profit,209,19.6,29.4
+4-year,Private for-profit,40349,15.4,29.4
+4-year,Private for-profit,386,24.6,29.4
+4-year,Private for-profit,248,43,29.4
+2-year,Private for-profit,756,23,29.3
+4-year,Private for-profit,581,41.9,29.3
+2-year,Private for-profit,118,40.9,29.3
+4-year,Private for-profit,195,51.8,29.3
+2-year,Public,7396,14.3,29.3
+4-year,Private not-for-profit,3885,36.3,29.3
+4-year,Public,793,19.3,29.2
+4-year,Private for-profit,1551,24.4,29.2
+2-year,Private for-profit,686,45.6,29.2
+2-year,Private for-profit,466,37.5,29.2
+2-year,Private for-profit,1256,30.4,29.2
+4-year,Private for-profit,255,29.9,29.2
+2-year,Public,1657,17.7,29.2
+4-year,Private for-profit,959,17.7,29.2
+2-year,Public,9477,24.7,29.1
+2-year,Public,14399,22.2,29.1
+4-year,Private for-profit,396,32.8,29.1
+2-year,Private for-profit,645,28.4,29.1
+2-year,Private for-profit,655,41.1,29.1
+2-year,Private for-profit,1158,19.2,29.1
+2-year,Private for-profit,2746,46.7,29
+4-year,Private not-for-profit,110,21.7,29
+4-year,Public,5678,28.4,28.9
+2-year,Private not-for-profit,219,19,28.9
+2-year,Private for-profit,678,12.6,28.9
+2-year,Public,404,11.2,28.9
+2-year,Public,26711,18.1,28.8
+2-year,Public,8631,9.7,28.8
+2-year,Public,1244,19.4,28.8
+2-year,Public,2216,24.9,28.8
+2-year,Private not-for-profit,472,17.1,28.8
+2-year,Private for-profit,383,53.1,28.8
+4-year,Private for-profit,1263,40.6,28.8
+4-year,Private for-profit,478,33,28.7
+4-year,Private for-profit,400,39,28.7
+4-year,Private for-profit,432,36.1,28.7
+4-year,Private for-profit,650,39.9,28.7
+4-year,Public,10738,23.4,28.7
+4-year,Private for-profit,326,10.7,28.7
+2-year,Private for-profit,490,24.1,28.7
+4-year,Private for-profit,780,23,28.6
+2-year,Private for-profit,113,90.8,28.6
+2-year,Private for-profit,580,31.4,28.6
+4-year,Private for-profit,576,18.1,28.6
+2-year,Private for-profit,177,38.9,28.6
+2-year,Public,8020,15.5,28.6
+4-year,Private not-for-profit,343,30.8,28.6
+4-year,Private not-for-profit,1877,23.9,28.5
+4-year,Private for-profit,449,38.6,28.5
+4-year,Private for-profit,435,10.2,28.5
+4-year,Private for-profit,497,30.9,28.5
+4-year,Private for-profit,279,20.8,28.5
+4-year,Private for-profit,720,30.9,28.4
+2-year,Private for-profit,787,23.8,28.4
+2-year,Private not-for-profit,396,17.6,28.4
+2-year,Private for-profit,422,50.6,28.4
+2-year,Public,1533,18,28.4
+4-year,Private for-profit,476,40,28.4
+4-year,Private for-profit,431,16.6,28.4
+2-year,Private for-profit,304,32,28.3
+4-year,Private for-profit,614,24.1,28.3
+2-year,Private for-profit,359,38.9,28.3
+2-year,Private for-profit,1418,26.5,28.3
+2-year,Private for-profit,1249,34.8,28.3
+2-year,Private for-profit,574,54.5,28.2
+2-year,Private for-profit,1029,54.9,28.2
+4-year,Private for-profit,344,38.1,28.2
+4-year,Private for-profit,170144,36.2,28.1
+4-year,Private for-profit,5340,15.5,28.1
+2-year,Private for-profit,258,8.4,28.1
+4-year,Private for-profit,269,37.6,28
+2-year,Private for-profit,279,43.9,28
+2-year,Private for-profit,617,30.9,28
+4-year,Private not-for-profit,495,25,27.9
+2-year,Private for-profit,239,41.1,27.9
+2-year,Private for-profit,364,34.3,27.9
+4-year,Private not-for-profit,457,18.5,27.8
+2-year,Private for-profit,994,27.9,27.8
+4-year,Private for-profit,570,23.3,27.8
+4-year,Private not-for-profit,125,15.6,27.8
+2-year,Private not-for-profit,438,22.1,27.8
+4-year,Private for-profit,448,35.4,27.7
+2-year,Private for-profit,563,30.6,27.7
+2-year,Private for-profit,405,26.6,27.7
+4-year,Private for-profit,585,29.1,27.7
+2-year,Private not-for-profit,408,22,27.6
+2-year,Private for-profit,207,14.6,27.6
+2-year,Private for-profit,138,33.4,27.6
+2-year,Private for-profit,260,18.3,27.6
+4-year,Private for-profit,94,17.6,27.6
+4-year,Public,4104,29.4,27.6
+4-year,Public,3626,34.1,27.5
+4-year,Private for-profit,457,40.2,27.4
+4-year,Private for-profit,125,29.8,27.4
+2-year,Private for-profit,317,38.2,27.4
+4-year,Private for-profit,125,38.3,27.4
+2-year,Private not-for-profit,354,20.3,27.3
+2-year,Public,531,10.4,27.3
+2-year,Public,2272,20.6,27.3
+4-year,Public,681,14.1,27.3
+2-year,Private for-profit,336,56.9,27.3
+4-year,Private for-profit,1056,29.2,27.2
+4-year,Private not-for-profit,1039,28.4,27.2
+2-year,Private for-profit,201,25.5,27.2
+4-year,Private for-profit,275,19.9,27.1
+4-year,Private for-profit,730,40.8,27.1
+2-year,Private for-profit,381,43.7,27.1
+2-year,Private for-profit,524,31.7,27.1
+2-year,Private for-profit,357,26.6,27.1
+2-year,Public,149,20.1,27.1
+2-year,Private for-profit,457,31.1,27.1
+2-year,Public,3406,20.9,27.1
+2-year,Private for-profit,256,23.5,27
+2-year,Public,895,5.6,27
+2-year,Private for-profit,594,39.6,27
+4-year,Private not-for-profit,190,23,27
+2-year,Public,8832,24.4,27
+2-year,Public,5215,16.8,27
+4-year,Private for-profit,330,18.6,27
+2-year,Private for-profit,477,35.3,27
+2-year,Private for-profit,464,17.3,27
+4-year,Private not-for-profit,1184,22,27
+4-year,Private for-profit,378,29.7,26.9
+2-year,Private for-profit,262,13.1,26.9
+2-year,Private for-profit,710,34.4,26.9
+4-year,Private not-for-profit,498,34.5,26.9
+2-year,Private for-profit,365,35.6,26.9
+4-year,Private for-profit,29460,7.9,26.9
+2-year,Private for-profit,810,31.5,26.9
+4-year,Private not-for-profit,363,19.9,26.8
+2-year,Public,1783,15.4,26.8
+4-year,Private for-profit,538,11.7,26.8
+2-year,Private for-profit,1400,50.2,26.8
+2-year,Public,10939,25.8,26.8
+4-year,Private for-profit,496,43.8,26.8
+4-year,Private not-for-profit,412,22.5,26.8
+4-year,Private not-for-profit,122,18,26.8
+4-year,Private for-profit,224,7,26.8
+2-year,Public,2194,12.9,26.8
+2-year,Public,972,20.9,26.7
+2-year,Public,4512,9.8,26.7
+2-year,Private for-profit,223,11.8,26.7
+4-year,Private not-for-profit,3082,26,26.7
+4-year,Private not-for-profit,4358,22.5,26.7
+4-year,Private for-profit,128,21.2,26.7
+2-year,Private for-profit,312,38.7,26.6
+2-year,Private for-profit,236,36.8,26.6
+2-year,Private for-profit,540,42.2,26.6
+2-year,Public,3694,11.9,26.6
+2-year,Private for-profit,756,57.6,26.6
+2-year,Private for-profit,360,37.6,26.5
+2-year,Private for-profit,588,54,26.5
+4-year,Private not-for-profit,1545,22.6,26.5
+2-year,Private for-profit,951,21.4,26.5
+2-year,Private for-profit,88,59,26.4
+2-year,Private for-profit,4706,21.7,26.4
+4-year,Private not-for-profit,118,0.5,26.4
+4-year,Private not-for-profit,155,18.6,26.4
+2-year,Public,3785,22.3,26.4
+4-year,Private for-profit,1414,21.4,26.3
+4-year,Private for-profit,1163,23.4,26.3
+4-year,Private for-profit,2098,23.1,26.3
+4-year,Private for-profit,1374,20.7,26.3
+4-year,Private for-profit,8309,23.9,26.3
+2-year,Private for-profit,790,40.5,26.3
+2-year,Private for-profit,1119,43.4,26.3
+4-year,Private for-profit,186,25,26.3
+4-year,Private not-for-profit,1763,15.8,26.2
+4-year,Private for-profit,189,41,26.2
+4-year,Private not-for-profit,444,32.5,26.2
+4-year,Private for-profit,591,30.5,26.2
+4-year,Private for-profit,169,34.5,26.2
+4-year,Private for-profit,505,28.7,26.2
+2-year,Private for-profit,121,46.8,26.2
+4-year,Private for-profit,659,37.6,26.1
+2-year,Public,755,26.9,26.1
+4-year,Private for-profit,2420,15.7,26.1
+4-year,Private for-profit,531,39.4,26.1
+4-year,Public,31232,14.7,26.1
+2-year,Private for-profit,461,51.7,26
+4-year,Public,5306,18.6,26
+2-year,Private for-profit,1076,33.4,26
+2-year,Private for-profit,722,37.4,26
+2-year,Private for-profit,1033,25.3,26
+2-year,Private for-profit,412,30,26
+4-year,Private for-profit,1906,10.8,26
+2-year,Private for-profit,447,12.9,26
+2-year,Private for-profit,207,31.9,25.9
+4-year,Private not-for-profit,814,10.5,25.9
+4-year,Private for-profit,7947,14.2,25.9
+4-year,Private not-for-profit,661,26,25.9
+2-year,Public,348,15.3,25.9
+4-year,Private for-profit,289,35.7,25.9
+4-year,Private for-profit,312,40.7,25.8
+4-year,Private for-profit,547,35.1,25.8
+4-year,Private for-profit,353,37.3,25.8
+4-year,Private for-profit,552,33.7,25.8
+4-year,Private not-for-profit,2239,18.9,25.8
+4-year,Private for-profit,271,38.3,25.8
+4-year,Private for-profit,538,37.1,25.8
+4-year,Private for-profit,527,32.8,25.7
+4-year,Private for-profit,145,61.4,25.7
+4-year,Private not-for-profit,4513,28,25.7
+4-year,Private not-for-profit,1952,24.2,25.7
+2-year,Private for-profit,224,38.2,25.7
+4-year,Private not-for-profit,438,35.9,25.7
+2-year,Public,2506,15.5,25.7
+4-year,Private for-profit,1754,20.9,25.7
+4-year,Private for-profit,127,15.2,25.6
+2-year,Private not-for-profit,425,22.1,25.6
+2-year,Private not-for-profit,222,66.7,25.6
+4-year,Private not-for-profit,537,39.3,25.6
+2-year,Private for-profit,247,24.3,25.6
+2-year,Private for-profit,134,131.1,25.6
+4-year,Private for-profit,134,15.5,25.5
+4-year,Private for-profit,2796,19.3,25.5
+4-year,Private for-profit,492,37.4,25.5
+2-year,Private for-profit,166,43,25.5
+4-year,Private for-profit,1281,12.7,25.5
+2-year,Private for-profit,201,15.9,25.5
+4-year,Private for-profit,3741,16.1,25.4
+4-year,Private for-profit,567,45.5,25.4
+2-year,Public,15965,9.9,25.4
+2-year,Private for-profit,381,36.2,25.3
+2-year,Public,1869,24.9,25.3
+2-year,Public,1583,17.4,25.3
+2-year,Private for-profit,360,34.5,25.3
+2-year,Private for-profit,495,27.4,25.3
+2-year,Public,1238,26,25.3
+2-year,Public,974,28.1,25.3
+2-year,Public,514,12.3,25.2
+4-year,Private for-profit,428,16.5,25.2
+4-year,Private for-profit,980,20.8,25.2
+2-year,Private for-profit,284,41.3,25.2
+2-year,Private for-profit,937,37.9,25.2
+4-year,Private for-profit,513,25.2,25.1
+2-year,Private for-profit,222,26.4,25
+2-year,Private for-profit,87,28.2,25
+4-year,Private for-profit,277,46.7,25
+2-year,Public,580,15.6,25
+2-year,Private for-profit,1739,28,25
+4-year,Private not-for-profit,9789,37.6,25
+4-year,Private for-profit,303,37.5,24.9
+2-year,Private for-profit,235,19,24.9
+2-year,Private for-profit,229,29,24.9
+2-year,Private for-profit,1157,31.3,24.9
+4-year,Private for-profit,123,14.9,24.9
+4-year,Private for-profit,1066,19,24.8
+2-year,Private for-profit,105,26.1,24.8
+2-year,Public,1304,10.6,24.8
+4-year,Private for-profit,1045,20.6,24.7
+2-year,Private not-for-profit,762,54.2,24.7
+4-year,Private for-profit,469,35.6,24.7
+2-year,Private for-profit,132,32.8,24.7
+4-year,Private for-profit,645,16.5,24.7
+2-year,Private for-profit,682,25.6,24.7
+2-year,Private for-profit,255,41.6,24.6
+2-year,Private for-profit,171,47.3,24.6
+4-year,Private for-profit,2062,22.1,24.6
+4-year,Private for-profit,417,43.1,24.5
+2-year,Private for-profit,239,35.8,24.5
+2-year,Private for-profit,255,36.6,24.5
+4-year,Private for-profit,419,33.6,24.4
+4-year,Private for-profit,391,37,24.4
+4-year,Private for-profit,86,38.8,24.3
+2-year,Public,278,28.1,24.3
+4-year,Private not-for-profit,470,19.6,24.3
+2-year,Private for-profit,1989,30.3,24.3
+2-year,Private for-profit,625,25.8,24.3
+4-year,Private for-profit,566,12.3,24.3
+4-year,Private for-profit,707,21.6,24.3
+4-year,Private for-profit,639,17.7,24.3
+2-year,Private for-profit,234,28.4,24.3
+4-year,Private for-profit,467,28,24.2
+2-year,Private not-for-profit,196,31.1,24.2
+4-year,Private for-profit,1808,19.8,24.2
+4-year,Private for-profit,280,20.1,24.1
+2-year,Private for-profit,561,32.4,24.1
+2-year,Public,449,53.1,24.1
+4-year,Private not-for-profit,35493,16.4,24
+4-year,Private for-profit,339,28.1,24
+4-year,Private for-profit,316,27.8,24
+2-year,Private for-profit,159,43.7,24
+4-year,Public,12907,20.7,24
+2-year,Private not-for-profit,144,13.8,23.9
+4-year,Private not-for-profit,623,33.3,23.9
+4-year,Private for-profit,652,32.7,23.9
+2-year,Public,4593,19.8,23.9
+2-year,Private for-profit,927,17.2,23.9
+2-year,Private for-profit,267,77,23.9
+4-year,Private not-for-profit,1662,1.1,23.9
+4-year,Private not-for-profit,283,29.3,23.9
+4-year,Private for-profit,291,44.7,23.9
+4-year,Private for-profit,336,32.1,23.9
+2-year,Private for-profit,253,32.6,23.9
+2-year,Private for-profit,278,36.4,23.8
+2-year,Public,257,17.8,23.8
+2-year,Public,23981,16.4,23.8
+2-year,Private for-profit,299,46.1,23.8
+2-year,Private not-for-profit,60,13,23.7
+2-year,Private for-profit,603,25.2,23.7
+4-year,Private for-profit,1080,22.7,23.7
+4-year,Private for-profit,1028,22.5,23.7
+4-year,Private for-profit,601,19.6,23.7
+4-year,Private for-profit,479,16.5,23.7
+4-year,Private for-profit,396,19.2,23.7
+4-year,Private for-profit,398,17.3,23.6
+4-year,Private for-profit,223,14.6,23.6
+2-year,Private for-profit,231,31.7,23.6
+4-year,Private for-profit,624,34,23.6
+2-year,Private for-profit,491,37.4,23.6
+2-year,Public,3146,18.6,23.5
+4-year,Private for-profit,2218,24.7,23.5
+4-year,Private for-profit,251,13.8,23.5
+4-year,Private for-profit,509,16.6,23.5
+4-year,Private for-profit,801,54.7,23.4
+4-year,Private for-profit,470,36.6,23.4
+4-year,Private for-profit,573,34.3,23.4
+2-year,Private for-profit,280,35.4,23.4
+4-year,Private for-profit,785,60.9,23.4
+2-year,Public,8043,9.1,23.4
+4-year,Private for-profit,492,39,23.4
+2-year,Private for-profit,169,23,23.3
+2-year,Private for-profit,265,53.6,23.3
+2-year,Private for-profit,172,29.8,23.3
+4-year,Private for-profit,772,16.5,23.3
+2-year,Private for-profit,693,49.8,23.2
+4-year,Private not-for-profit,2382,8.7,23.2
+4-year,Private for-profit,420,16.3,23.1
+2-year,Private for-profit,3544,24.9,23.1
+2-year,Private for-profit,589,54.9,23.1
+2-year,Private for-profit,380,11.4,23.1
+2-year,Private for-profit,127,14.6,23.1
+4-year,Private for-profit,499,15,23
+4-year,Private for-profit,271,8.6,23
+4-year,Private for-profit,2279,16.1,23
+4-year,Private for-profit,1003,19.1,22.9
+4-year,Private for-profit,148,31.1,22.8
+4-year,Private for-profit,713,16.4,22.8
+4-year,Private for-profit,37,5.1,22.8
+2-year,Private for-profit,840,52.5,22.8
+2-year,Public,867,20.1,22.8
+2-year,Private not-for-profit,229,11.6,22.8
+4-year,Private for-profit,604,46.9,22.7
+4-year,Private for-profit,153,17.3,22.7
+2-year,Private for-profit,538,71.6,22.7
+2-year,Private for-profit,262,33.9,22.7
+4-year,Private for-profit,403,37.9,22.7
+2-year,Public,3396,22.6,22.7
+2-year,Public,2821,18.3,22.6
+4-year,Private for-profit,542,6.1,22.6
+4-year,Private not-for-profit,1506,31.4,22.6
+4-year,Private for-profit,333,15.1,22.6
+2-year,Private not-for-profit,230,46.8,22.6
+2-year,Private for-profit,231,62.9,22.6
+2-year,Private for-profit,504,29,22.6
+2-year,Private for-profit,320,44.8,22.6
+2-year,Private for-profit,285,52.3,22.5
+2-year,Private for-profit,587,19.9,22.5
+4-year,Private not-for-profit,257,26.1,22.5
+4-year,Private not-for-profit,372,20.3,22.5
+2-year,Private for-profit,381,44.3,22.5
+2-year,Private for-profit,266,45.1,22.5
+2-year,Private for-profit,326,17,22.5
+2-year,Private for-profit,402,35.8,22.5
+2-year,Private for-profit,288,16.6,22.4
+4-year,Private for-profit,321,20.6,22.4
+2-year,Private not-for-profit,300,16,22.4
+4-year,Private for-profit,962,25.9,22.4
+2-year,Private for-profit,273,19.4,22.4
+2-year,Private for-profit,329,26,22.4
+4-year,Private for-profit,1499,18.8,22.3
+2-year,Public,2057,16.4,22.3
+4-year,Private for-profit,181,26.9,22.3
+4-year,Private for-profit,1338,15.8,22.3
+4-year,Private for-profit,1595,19.8,22.3
+4-year,Private for-profit,256,12.9,22.2
+4-year,Private for-profit,283,16.8,22.2
+4-year,Private for-profit,979,14.5,22.2
+2-year,Private for-profit,380,36.6,22.2
+4-year,Private for-profit,292,24.2,22.2
+4-year,Private for-profit,346,19.1,22.1
+4-year,Private for-profit,756,12,22.1
+4-year,Private not-for-profit,418,20.4,22.1
+2-year,Private for-profit,882,27.4,22.1
+2-year,Private for-profit,164,44,22.1
+2-year,Private for-profit,209,39.7,22
+4-year,Private for-profit,348,18.6,22
+2-year,Private for-profit,704,32.2,22
+2-year,Private for-profit,1565,26.3,22
+2-year,Public,117,15.1,21.9
+2-year,Private for-profit,1277,65.2,21.9
+2-year,Private for-profit,156,23.3,21.9
+2-year,Private not-for-profit,139,33.8,21.9
+2-year,Private for-profit,274,31.1,21.9
+4-year,Private not-for-profit,620,8.4,21.9
+2-year,Private for-profit,263,48.7,21.8
+2-year,Public,2995,18.7,21.8
+2-year,Private for-profit,280,33.9,21.8
+4-year,Public,3377,12.1,21.8
+2-year,Private for-profit,376,73.9,21.8
+2-year,Private for-profit,642,45.5,21.8
+4-year,Public,4963,28.6,21.8
+4-year,Private for-profit,678,35.5,21.7
+4-year,Private for-profit,573,37.1,21.7
+4-year,Private for-profit,1761,21,21.7
+4-year,Private not-for-profit,355,22.9,21.7
+2-year,Private for-profit,311,72.3,21.7
+2-year,Private for-profit,478,54.2,21.7
+4-year,Private for-profit,517,10.9,21.7
+4-year,Private for-profit,1350,12.8,21.6
+4-year,Private for-profit,813,13.9,21.6
+4-year,Private for-profit,1320,8.7,21.6
+4-year,Private for-profit,650,12.8,21.6
+2-year,Private for-profit,961,27.3,21.6
+4-year,Private for-profit,442,44.9,21.5
+2-year,Private for-profit,310,37.5,21.5
+4-year,Private not-for-profit,1429,36.1,21.5
+2-year,Private for-profit,210,35.7,21.5
+2-year,Private for-profit,229,36.7,21.4
+2-year,Private for-profit,301,34.5,21.4
+2-year,Private for-profit,698,43.4,21.3
+4-year,Private for-profit,9590,21.1,21.3
+4-year,Private for-profit,190,40.7,21.3
+2-year,Private for-profit,647,65.3,21.3
+4-year,Private for-profit,470,16,21.2
+2-year,Private for-profit,365,25.4,21.1
+2-year,Public,243,13.5,21.1
+2-year,Private for-profit,1071,37.1,21
+2-year,Private for-profit,1108,21.7,21
+4-year,Private for-profit,793,24.6,21
+4-year,Private not-for-profit,135,23.4,21
+2-year,Private for-profit,205,33.7,21
+4-year,Private for-profit,1374,18,21
+4-year,Private not-for-profit,72,10.9,20.9
+2-year,Private for-profit,105,41.4,20.9
+4-year,Private for-profit,894,12,20.9
+2-year,Private for-profit,214,50.4,20.9
+4-year,Private for-profit,829,15.7,20.8
+2-year,Public,2683,18.5,20.8
+4-year,Private for-profit,591,33,20.7
+4-year,Private for-profit,322,29.4,20.7
+4-year,Private for-profit,338,7.4,20.7
+2-year,Private for-profit,1108,28.8,20.6
+2-year,Private for-profit,442,42.1,20.5
+4-year,Private for-profit,417,14.7,20.4
+2-year,Private for-profit,282,43.1,20.4
+4-year,Private for-profit,1196,13.7,20.4
+4-year,Private for-profit,1650,15.9,20.4
+2-year,Private for-profit,461,27,20.3
+2-year,Private for-profit,370,28,20.3
+2-year,Private for-profit,643,52.4,20.3
+4-year,Private for-profit,792,10.3,20.3
+4-year,Private for-profit,1147,10.2,20.3
+4-year,Private for-profit,553,10.5,20.2
+4-year,Private for-profit,272,18.8,20.2
+4-year,Private for-profit,18061,25.5,20.2
+4-year,Private not-for-profit,3795,17.4,20.2
+2-year,Public,8034,14.1,20.2
+4-year,Private for-profit,190,28.3,20.2
+2-year,Private for-profit,227,25.8,20.1
+2-year,Private for-profit,347,46,20.1
+4-year,Private not-for-profit,189,25.8,20.1
+4-year,Private not-for-profit,96,6,20.1
+2-year,Private for-profit,374,19.8,20.1
+4-year,Private for-profit,1083,22.5,20
+4-year,Private not-for-profit,122,6.8,20
+4-year,Private for-profit,426,17.3,20
+2-year,Public,2257,19.6,19.9
+2-year,Private for-profit,64,20.2,19.9
+2-year,Public,1573,32.3,19.9
+4-year,Private for-profit,10105,31,19.8
+4-year,Private for-profit,448,16.6,19.8
+4-year,Private for-profit,208,45.3,19.8
+2-year,Private for-profit,561,37.9,19.8
+2-year,Private for-profit,605,28.4,19.8
+4-year,Private for-profit,351,16.7,19.7
+4-year,Private for-profit,463,18.8,19.7
+4-year,Public,5837,12.7,19.6
+2-year,Private for-profit,505,56.8,19.6
+2-year,Private not-for-profit,474,15.1,19.6
+2-year,Private for-profit,1018,18.7,19.6
+2-year,Private not-for-profit,298,11.3,19.5
+4-year,Private for-profit,266,26.5,19.5
+4-year,Private for-profit,420,17.9,19.5
+4-year,Private for-profit,455,7.9,19.4
+4-year,Private for-profit,153,12.8,19.4
+2-year,Private for-profit,282,23.5,19.4
+2-year,Private for-profit,267,19.9,19.4
+4-year,Private for-profit,203,7.2,19.3
+4-year,Private for-profit,711,44.2,19.3
+2-year,Private for-profit,237,53.6,19.3
+2-year,Private for-profit,305,42.1,19.3
+2-year,Private for-profit,883,29.7,19.3
+2-year,Private for-profit,74,26.4,19.2
+2-year,Public,1162,27,19.2
+4-year,Private for-profit,420,18.5,19.2
+4-year,Private not-for-profit,2325,31.5,19.1
+4-year,Private for-profit,2348,17.8,19.1
+2-year,Private for-profit,269,36.3,19.1
+2-year,Private for-profit,130,50.2,19.1
+2-year,Private for-profit,77,24.3,19
+2-year,Private for-profit,616,40.7,19
+4-year,Private for-profit,354,39.3,19
+4-year,Private for-profit,117,41.4,19
+4-year,Private not-for-profit,906,16.8,19
+2-year,Private for-profit,167,41.7,18.9
+4-year,Private not-for-profit,178,11.4,18.9
+2-year,Private for-profit,148,33,18.8
+2-year,Private for-profit,1502,39.7,18.8
+4-year,Private not-for-profit,1561,15.2,18.8
+4-year,Private not-for-profit,289,12.6,18.8
+4-year,Private for-profit,834,19.5,18.7
+4-year,Private not-for-profit,140,23.4,18.6
+4-year,Private for-profit,816,17,18.6
+4-year,Private for-profit,704,8.3,18.6
+4-year,Private for-profit,640,5.3,18.6
+4-year,Private for-profit,148,16.5,18.6
+2-year,Public,5020,30.9,18.5
+4-year,Private for-profit,447,10.4,18.5
+4-year,Private for-profit,384,18,18.5
+2-year,Private for-profit,721,29.6,18.5
+2-year,Private for-profit,572,32,18.4
+2-year,Private for-profit,395,25,18.4
+4-year,Private for-profit,362,41.9,18.4
+4-year,Private for-profit,351,29.8,18.4
+4-year,Private for-profit,616,34.4,18.4
+4-year,Private for-profit,458,28.5,18.3
+2-year,Private for-profit,327,36,18.3
+4-year,Private for-profit,178,46.8,18.3
+4-year,Private for-profit,371,13,18.3
+2-year,Private for-profit,512,32.5,18.2
+2-year,Private for-profit,312,26.1,18.1
+4-year,Private for-profit,1036,20.9,18.1
+4-year,Private for-profit,319,11.6,18.1
+4-year,Private for-profit,953,31.7,18.1
+2-year,Private for-profit,318,60.3,18
+4-year,Private for-profit,279,30.7,18
+2-year,Private for-profit,172,30.4,17.9
+4-year,Private for-profit,241,38.8,17.8
+4-year,Private for-profit,574,25.3,17.8
+2-year,Public,2551,10.5,17.8
+2-year,Private for-profit,186,41.7,17.7
+2-year,Private for-profit,362,29.3,17.7
+4-year,Private for-profit,264,42.1,17.7
+4-year,Public,9719,5.4,17.6
+2-year,Private for-profit,1634,18.2,17.6
+2-year,Private for-profit,126,8.2,17.6
+2-year,Private for-profit,427,51.3,17.6
+4-year,Private not-for-profit,348,6.5,17.6
+4-year,Private not-for-profit,922,52.7,17.5
+4-year,Private for-profit,862,22.2,17.5
+2-year,Private for-profit,216,28.1,17.5
+2-year,Private for-profit,144,56,17.4
+2-year,Private for-profit,603,34.6,17.4
+4-year,Private for-profit,369,32.9,17.4
+4-year,Private for-profit,439,34,17.3
+2-year,Private for-profit,186,33.8,17.3
+4-year,Private for-profit,402,40.8,17.3
+4-year,Private for-profit,242,40,17.2
+4-year,Private for-profit,219,39.9,17.2
+4-year,Private for-profit,408,26.1,17.2
+4-year,Private for-profit,519,30.9,17.2
+4-year,Private for-profit,2307,17,17.2
+4-year,Private for-profit,477,17.4,17.2
+2-year,Public,4102,11.8,17.2
+2-year,Private for-profit,317,29.1,17.2
+4-year,Private for-profit,348,17.5,17.1
+2-year,Private for-profit,425,39.9,17.1
+4-year,Private for-profit,1851,20.5,17
+4-year,Private for-profit,154,15.7,16.9
+4-year,Private not-for-profit,159,26.3,16.9
+4-year,Public,4025,20.2,16.9
+2-year,Private for-profit,133,34.2,16.9
+4-year,Private for-profit,991,17.8,16.8
+4-year,Private for-profit,2005,13.4,16.8
+2-year,Private for-profit,889,25.7,16.8
+2-year,Private for-profit,323,12.3,16.7
+2-year,Private for-profit,178,17.7,16.7
+2-year,Private for-profit,320,43.2,16.6
+2-year,Private for-profit,222,36.8,16.6
+2-year,Private for-profit,234,37,16.5
+2-year,Private for-profit,195,29.7,16.4
+4-year,Private not-for-profit,114,5.5,16.4
+4-year,Private not-for-profit,118,18.3,16.4
+4-year,Private not-for-profit,142,16.4,16.3
+4-year,Private for-profit,654,22.1,16.2
+2-year,Private for-profit,277,39.1,16.2
+4-year,Private for-profit,466,19.4,16.1
+2-year,Private for-profit,628,25.8,16.1
+2-year,Private for-profit,501,24.3,16.1
+4-year,Private for-profit,643,19,16.1
+4-year,Private for-profit,1185,12.6,16.1
+2-year,Private for-profit,231,28,16
+2-year,Private for-profit,286,31.6,16
+2-year,Private for-profit,470,48.9,15.9
+4-year,Private for-profit,230,33.8,15.9
+4-year,Private for-profit,656,28.3,15.9
+4-year,Private for-profit,357,30.6,15.8
+4-year,Private for-profit,303,24.2,15.8
+4-year,Private for-profit,483,28.7,15.7
+4-year,Private for-profit,690,22.4,15.7
+4-year,Private for-profit,206,28.4,15.7
+4-year,Private for-profit,330,29.4,15.6
+2-year,Private for-profit,410,47,15.6
+4-year,Private for-profit,255,16,15.6
+4-year,Private for-profit,390,9.8,15.6
+2-year,Private for-profit,312,36.3,15.6
+4-year,Private for-profit,163,31.8,15.6
+4-year,Private for-profit,194,22.8,15.5
+4-year,Private for-profit,356,18.6,15.5
+4-year,Private for-profit,388,8.2,15.5
+4-year,Private for-profit,207,8.2,15.4
+4-year,Private for-profit,1506,21.7,15.4
+2-year,Private for-profit,465,54.5,15.4
+2-year,Private for-profit,451,55.2,15.4
+4-year,Private for-profit,14853,39.1,15.4
+4-year,Private for-profit,270,16.7,15.4
+4-year,Private not-for-profit,307,8.5,15.3
+4-year,Private for-profit,1296,27.3,15.2
+4-year,Private for-profit,10906,10.3,15.2
+4-year,Public,1728,34.5,15.1
+4-year,Private for-profit,899,29.3,15.1
+4-year,Private for-profit,760,27.3,15.1
+4-year,Private for-profit,395,36.4,15
+4-year,Private for-profit,1003,16.7,15
+4-year,Private for-profit,1413,10.4,15
+4-year,Private for-profit,570,17.3,14.9
+4-year,Private for-profit,254,7.9,14.9
+4-year,Private for-profit,282,21,14.9
+4-year,Private for-profit,372,25.9,14.9
+4-year,Private for-profit,208,31.4,14.9
+4-year,Private for-profit,345,26.6,14.7
+4-year,Private for-profit,247,32,14.7
+4-year,Private for-profit,178,36.3,14.6
+4-year,Private for-profit,451,16.7,14.6
+4-year,Private for-profit,495,15,14.6
+4-year,Private for-profit,781,13.9,14.5
+2-year,Private for-profit,892,30.6,14.4
+2-year,Private for-profit,656,1.2,14.4
+2-year,Private for-profit,554,17.3,14.3
+2-year,Private for-profit,161,51.3,14.3
+4-year,Private for-profit,424,11.8,14.3
+4-year,Private for-profit,2116,18.1,14.2
+4-year,Private for-profit,580,11.6,14.2
+2-year,Private for-profit,167,42.1,14.2
+2-year,Private for-profit,130,34.8,14.2
+2-year,Private for-profit,137,32.2,14.2
+2-year,Private for-profit,82,35.5,14.2
+2-year,Private for-profit,165,23,14.1
+4-year,Private not-for-profit,516,12.8,14.1
+4-year,Private for-profit,10783,48.1,14.1
+4-year,Private for-profit,667,41.9,14
+4-year,Private for-profit,515,24,14
+2-year,Private for-profit,84,51.4,13.9
+4-year,Private for-profit,124,27.7,13.9
+2-year,Private for-profit,242,40.2,13.8
+2-year,Private for-profit,460,36.4,13.7
+2-year,Private for-profit,215,40.3,13.7
+4-year,Private for-profit,696,45.5,13.7
+4-year,Private for-profit,632,18.9,13.7
+2-year,Public,9191,10,13.6
+4-year,Private not-for-profit,347,15.4,13.6
+2-year,Private for-profit,265,36.5,13.6
+2-year,Private for-profit,817,30.5,13.6
+2-year,Private for-profit,363,39.8,13.4
+2-year,Public,2641,11.3,13.4
+4-year,Private for-profit,182,35.8,13.3
+4-year,Private for-profit,393,30.9,13.2
+4-year,Private for-profit,604,17.3,13.2
+2-year,Private for-profit,48,34.8,13.1
+2-year,Private for-profit,446,32.3,13.1
+2-year,Private for-profit,50,42.5,13.1
+2-year,Private for-profit,629,26.1,13
+2-year,Private for-profit,310,31.6,13
+4-year,Private for-profit,244,4,12.9
+4-year,Private for-profit,425,22.1,12.8
+2-year,Private for-profit,459,24.6,12.7
+4-year,Private for-profit,1251,16.6,12.6
+2-year,Private for-profit,231,30.2,12.6
+4-year,Private for-profit,206,28.6,12.5
+2-year,Private for-profit,263,20.4,12.3
+4-year,Private for-profit,258,30.5,12.3
+4-year,Private for-profit,416,18,12.2
+4-year,Private not-for-profit,82,25.7,12.2
+4-year,Private for-profit,637,19.5,12.2
+4-year,Private for-profit,727,5.5,12
+4-year,Private for-profit,291,28.3,12
+4-year,Private for-profit,845,18.6,12
+4-year,Private for-profit,171,31.6,11.9
+4-year,Private for-profit,221,36.8,11.9
+4-year,Private for-profit,126,15,11.8
+4-year,Private for-profit,205,19,11.7
+2-year,Private for-profit,255,37.6,11.7
+4-year,Private not-for-profit,129,16.5,11.7
+4-year,Private for-profit,1822,10.1,11.7
+4-year,Private for-profit,1528,15.5,11.6
+4-year,Private for-profit,1103,15,11.6
+4-year,Private for-profit,902,39.4,11.6
+4-year,Private for-profit,244,10.9,11.6
+4-year,Private for-profit,589,11.9,11.5
+4-year,Private for-profit,368,12.4,11.5
+4-year,Private for-profit,266,17.7,11.3
+4-year,Private for-profit,203,23.6,11.1
+4-year,Private for-profit,216,25.5,11
+4-year,Private for-profit,194,20.6,10.8
+4-year,Private for-profit,3262,13,10.7
+4-year,Private for-profit,1221,19.1,10.7
+4-year,Private for-profit,959,4.5,10.6
+4-year,Private for-profit,245,30.4,10.6
+4-year,Private for-profit,904,32.9,10.6
+2-year,Private for-profit,84,33.2,10.4
+4-year,Private for-profit,247,26.8,10.4
+4-year,Private for-profit,319,21.6,10.3
+4-year,Private for-profit,438,28.3,10.2
+4-year,Private for-profit,569,21.4,10.2
+4-year,Private not-for-profit,161,23.7,9.8
+4-year,Private for-profit,96,40.4,9.6
+4-year,Private for-profit,428,12.6,9.2
+4-year,Private for-profit,1506,15.7,9.1
+2-year,Public,8420,11,8.8
+2-year,Public,9648,12.9,8.6
+2-year,Private for-profit,386,38.1,7.8
+4-year,Private not-for-profit,113,16.4,7.6
+4-year,Private not-for-profit,156,57.1,7.6
+2-year,Public,106,7.6,7.5
+4-year,Private not-for-profit,110,26.2,6.7
+4-year,Private not-for-profit,140,16.6,6.2
+4-year,Private for-profit,488,55.1,6.2
+2-year,Private for-profit,147,32.8,2.9
+4-year,Private for-profit,144,22.1,0
